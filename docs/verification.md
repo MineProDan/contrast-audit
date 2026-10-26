@@ -1,7 +1,8 @@
 # Verification
 
-Run on 2026-10-25 against a fresh `git clone` of this repository at commit
-`f51fffd`. Afterwards only this file and the install URL in README.md changed.
+Run on 2026-10-25 against a fresh `git clone` of the code in this
+repository's first commit. Afterwards only this file and the install URL in
+README.md changed in that commit.
 Absolute path prefixes are removed from the output below. Only summary lines
 are shown. The `✔`, `━` and `✘` characters are Swift Testing's own output.
 
@@ -82,7 +83,9 @@ exit 1; the recorded issue matches docs/example-output.txt line for line
 
 ## CI (GitHub Actions)
 
-Workflow run 40273338878 at commit `d8a80ec`, 2026-10-26: all six jobs passed.
+Workflow run 40406945494 at commit `64cba00` (tag `v0.1.0`), 2026-10-26: all
+six jobs passed. The summary lines below are from run 40273338878 on the same
+code, before the commit messages were reworded.
 Summary lines from the job logs:
 
 ```
