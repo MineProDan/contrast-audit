@@ -1,0 +1,12 @@
+# cd Examples/ThemeAuditDemo && DEMO_SHOW_FAILURE=1 swift test 2>&1
+# Excerpt from a real run (Xcode 27.1, Swift 6.4, macOS 26.6 arm64). Build, XCTest and passing-test lines were removed; the lines below are unchanged. Swift Testing indents the continuation lines of the message by two spaces.
+✘ Test emberMeetsAA() recorded an issue at ThemeContrastTests.swift:19:35: Issue recorded
+↳ Contrast audit failed for theme 'Ember' at AA: 2 of 12 checks failed (6 pairs x 2 variants).
+    [light] 'toggle-track' on 'surface'  1.76:1  needs 3.00:1 (AA, UI component)
+    [dark] 'subtitle' on 'surface'  3.89:1  needs 4.50:1 (AA, body text)
+  Not counted as failures: 1 waived.
+✘ Test emberMeetsAA() failed after 0.002 seconds with 1 issue.
+✘ Suite ThemeContrastTests failed after 0.003 seconds with 1 issue.
+✘ Test run with 2 tests in 1 suite failed after 0.003 seconds with 1 issue.
+Note: Some test targets reported failures:
+  - DemoThemesTests (Swift Testing)

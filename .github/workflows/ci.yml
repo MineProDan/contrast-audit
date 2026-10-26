@@ -1,0 +1,177 @@
+# Versions below were checked on 2026-10-25 against:
+# - Runner labels: https://docs.github.com/en/actions/reference/runners/github-hosted-runners
+#   and https://github.com/actions/runner-images (macos-26 is GA; xcode-27 is a
+#   preview image, so it is not used here).
+# - macos-26 software (Xcode 26.6 at /Applications/Xcode_26.6.app, iOS 26.5
+#   simulator runtime with an "iPhone 17" device, Python 3):
+#   https://github.com/actions/runner-images/blob/main/images/macos/macos-26-arm64-Readme.md
+# - Swift images: https://hub.docker.com/_/swift (6.0.3-noble and 6.4.1-noble;
+#   6.4.1 is the latest release per https://www.swift.org/install/linux/).
+# - actions/checkout v7.0.1 = 3d3c42e5aac5ba805825da76410c181273ba90b1:
+#   https://github.com/actions/checkout/releases
+#
+# Xcode is selected by an explicit path rather than the image default, because
+# the default moves when the image is updated.
+
+name: CI
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  macos:
+    name: macOS (Xcode 26.6)
+    runs-on: macos-26
+    timeout-minutes: 30
+    env:
+      DEVELOPER_DIR: /Applications/Xcode_26.6.app/Contents/Developer
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Toolchain versions
+        run: |
+          xcodebuild -version
+          swift --version
+          python3 --version
+
+      - name: Build with warnings as errors
+        run: swift build -Xswiftc -warnings-as-errors
+
+      - name: Test
+        run: swift test
+
+      - name: ContrastCore imports no UI or test frameworks
+        run: |
+          if grep -rnE 'import[[:space:]].*(SwiftUI|UIKit|AppKit|XCTest|Testing)([^A-Za-z0-9_]|$)' Sources/ContrastCore; then
+            echo "ContrastCore must not import SwiftUI, UIKit, AppKit, XCTest or Testing."
+            exit 1
+          fi
+          echo "No forbidden imports in Sources/ContrastCore."
+
+      - name: Independent reference vectors
+        run: python3 -I scripts/verify_vectors.py --check
+
+      - name: Demo package passes
+        working-directory: Examples/ThemeAuditDemo
+        run: swift test
+
+      - name: Demo package fails on the intentionally failing theme
+        working-directory: Examples/ThemeAuditDemo
+        run: |
+          log="$RUNNER_TEMP/demo-failure.log"
+          set +e
+          DEMO_SHOW_FAILURE=1 swift test > "$log" 2>&1
+          status=$?
+          set -e
+          cat "$log"
+          if [ "$status" -eq 0 ]; then
+            echo "Expected DEMO_SHOW_FAILURE=1 swift test to fail, but it passed."
+            exit 1
+          fi
+          # The failure must be the audit message recorded in
+          # docs/example-output.txt, not a build error. Lines 4-7 of that file
+          # are the message; the framework's prefix and indentation are
+          # stripped before the comparison.
+          sed -n '4,7p' ../../docs/example-output.txt \
+            | sed -e 's/^[^A-Za-z[]*//' > "$RUNNER_TEMP/expected.txt"
+          while IFS= read -r line; do
+            if ! grep -qF -- "$line" "$log"; then
+              echo "Missing expected line: $line"
+              exit 1
+            fi
+          done < "$RUNNER_TEMP/expected.txt"
+          echo "Demo failed with the expected audit message."
+
+  macos-swift-6-0:
+    # The package declares swift-tools-version 6.0, so the oldest supported
+    # toolchain is built and tested too. macos-15 ships Xcode 16.0 (Swift 6.0)
+    # at this path per
+    # https://github.com/actions/runner-images/blob/main/images/macos/macos-15-arm64-Readme.md
+    # (image 20260907, checked 2026-10-25).
+    name: macOS (Xcode 16.0, Swift 6.0)
+    runs-on: macos-15
+    timeout-minutes: 30
+    env:
+      DEVELOPER_DIR: /Applications/Xcode_16.app/Contents/Developer
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Toolchain versions
+        run: |
+          xcodebuild -version
+          swift --version
+
+      - name: Build
+        run: swift build
+
+      - name: Test
+        run: swift test
+
+  ios-simulator:
+    name: iOS simulator (Xcode 26.6, iOS 26.5)
+    runs-on: macos-26
+    timeout-minutes: 30
+    env:
+      DEVELOPER_DIR: /Applications/Xcode_26.6.app/Contents/Developer
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Test on the iOS simulator
+        run: |
+          xcodebuild test \
+            -scheme ContrastAudit-Package \
+            -destination 'platform=iOS Simulator,name=iPhone 17,OS=26.5'
+
+  linux:
+    name: Linux (swift:${{ matrix.image }})
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    container: swift:${{ matrix.image }}
+    strategy:
+      fail-fast: false
+      matrix:
+        # 6.0.3 matches the declared swift-tools-version; 6.4.1 is the latest
+        # release. ContrastPlatformColors builds to an empty module on Linux.
+        image: ["6.0.3-noble", "6.4.1-noble"]
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Toolchain version
+        run: swift --version
+
+      - name: Build
+        run: swift build
+
+      - name: Test
+        run: swift test
+
+  leak-scan:
+    name: Leak scan (generic checks)
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          # Full history, so the scan covers every reachable commit and blob.
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Scan tree and history without the private denylist
+        # The denylist is private and never stored in the repository or in CI.
+        run: bash scripts/leak_scan.sh --no-denylist

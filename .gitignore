@@ -1,0 +1,21 @@
+# Local scratch notes. Never committed.
+.scratch/
+
+# Private project decision log; kept locally.
+DECISIONS.md
+
+# SwiftPM
+.build/
+.swiftpm/
+Package.resolved
+/Packages/
+*.xcodeproj
+xcuserdata/
+DerivedData/
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/

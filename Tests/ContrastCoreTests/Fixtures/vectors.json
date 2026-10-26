@@ -1,0 +1,5872 @@
+{
+  "cases": [
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#000000",
+      "kind": "reference",
+      "ratio": 21.0
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#FFFFFF",
+      "kind": "reference",
+      "ratio": 21.0
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#767676",
+      "kind": "reference",
+      "ratio": 4.542224959605253
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#777777",
+      "kind": "reference",
+      "ratio": 4.478089453577214
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#1E2B37",
+      "kind": "reference",
+      "ratio": 14.423852198732893
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#8B959F",
+      "kind": "reference",
+      "ratio": 3.044619956587269
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#000000",
+      "kind": "gray-on-black",
+      "ratio": 1.0
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#010101",
+      "kind": "gray-on-black",
+      "ratio": 1.0060705396709768
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#020202",
+      "kind": "gray-on-black",
+      "ratio": 1.0121410793419534
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#030303",
+      "kind": "gray-on-black",
+      "ratio": 1.0182116190129302
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#040404",
+      "kind": "gray-on-black",
+      "ratio": 1.024282158683907
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#050505",
+      "kind": "gray-on-black",
+      "ratio": 1.0303526983548839
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#060606",
+      "kind": "gray-on-black",
+      "ratio": 1.0364232380258604
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#070707",
+      "kind": "gray-on-black",
+      "ratio": 1.0424937776968373
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#080808",
+      "kind": "gray-on-black",
+      "ratio": 1.0485643173678139
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#090909",
+      "kind": "gray-on-black",
+      "ratio": 1.0546348570387907
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#0A0A0A",
+      "kind": "gray-on-black",
+      "ratio": 1.0607053967097675
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#0B0B0B",
+      "kind": "gray-on-black",
+      "ratio": 1.0669307152779832
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#0C0C0C",
+      "kind": "gray-on-black",
+      "ratio": 1.0735301464809488
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#0D0D0D",
+      "kind": "gray-on-black",
+      "ratio": 1.080494340369926
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#0E0E0E",
+      "kind": "gray-on-black",
+      "ratio": 1.0878288407482057
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#0F0F0F",
+      "kind": "gray-on-black",
+      "ratio": 1.0955390696138745
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#101010",
+      "kind": "gray-on-black",
+      "ratio": 1.1036303340467677
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#111111",
+      "kind": "gray-on-black",
+      "ratio": 1.1121078324840545
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#121212",
+      "kind": "gray-on-black",
+      "ratio": 1.120976660457141
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#131313",
+      "kind": "gray-on-black",
+      "ratio": 1.1302418158518894
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#141414",
+      "kind": "gray-on-black",
+      "ratio": 1.1399082037453077
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#151515",
+      "kind": "gray-on-black",
+      "ratio": 1.1499806408645235
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#161616",
+      "kind": "gray-on-black",
+      "ratio": 1.1604638597077
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#171717",
+      "kind": "gray-on-black",
+      "ratio": 1.1713625123613862
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#181818",
+      "kind": "gray-on-black",
+      "ratio": 1.1826811740444159
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#191919",
+      "kind": "gray-on-black",
+      "ratio": 1.194424346404757
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#1A1A1A",
+      "kind": "gray-on-black",
+      "ratio": 1.2065964605925388
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#1B1B1B",
+      "kind": "gray-on-black",
+      "ratio": 1.2192018801297648
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#1C1C1C",
+      "kind": "gray-on-black",
+      "ratio": 1.2322449035948777
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#1D1D1D",
+      "kind": "gray-on-black",
+      "ratio": 1.2457297671383174
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#1E1E1E",
+      "kind": "gray-on-black",
+      "ratio": 1.2596606468434601
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#1F1F1F",
+      "kind": "gray-on-black",
+      "ratio": 1.2740416609457939
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#202020",
+      "kind": "gray-on-black",
+      "ratio": 1.2888768719218509
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#212121",
+      "kind": "gray-on-black",
+      "ratio": 1.3041702884582542
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#222222",
+      "kind": "gray-on-black",
+      "ratio": 1.3199258673101926
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#232323",
+      "kind": "gray-on-black",
+      "ratio": 1.3361475150577478
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#242424",
+      "kind": "gray-on-black",
+      "ratio": 1.3528390897676816
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#252525",
+      "kind": "gray-on-black",
+      "ratio": 1.370004402567594
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#262626",
+      "kind": "gray-on-black",
+      "ratio": 1.3876472191387146
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#272727",
+      "kind": "gray-on-black",
+      "ratio": 1.405771261133048
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#282828",
+      "kind": "gray-on-black",
+      "ratio": 1.424380207520071
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#292929",
+      "kind": "gray-on-black",
+      "ratio": 1.4434776958677475
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#2A2A2A",
+      "kind": "gray-on-black",
+      "ratio": 1.4630673235622083
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#2B2B2B",
+      "kind": "gray-on-black",
+      "ratio": 1.4831526489700952
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#2C2C2C",
+      "kind": "gray-on-black",
+      "ratio": 1.5037371925472325
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#2D2D2D",
+      "kind": "gray-on-black",
+      "ratio": 1.524824437896998
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#2E2E2E",
+      "kind": "gray-on-black",
+      "ratio": 1.5464178327814981
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#2F2F2F",
+      "kind": "gray-on-black",
+      "ratio": 1.568520790088416
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#303030",
+      "kind": "gray-on-black",
+      "ratio": 1.5911366887561762
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#313131",
+      "kind": "gray-on-black",
+      "ratio": 1.6142688746598726
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#323232",
+      "kind": "gray-on-black",
+      "ratio": 1.6379206614602306
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#333333",
+      "kind": "gray-on-black",
+      "ratio": 1.6620953314177012
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#343434",
+      "kind": "gray-on-black",
+      "ratio": 1.6867961361736432
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#353535",
+      "kind": "gray-on-black",
+      "ratio": 1.7120262975004068
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#363636",
+      "kind": "gray-on-black",
+      "ratio": 1.7377890080220009
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#373737",
+      "kind": "gray-on-black",
+      "ratio": 1.76408743190693
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#383838",
+      "kind": "gray-on-black",
+      "ratio": 1.7909247055346567
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#393939",
+      "kind": "gray-on-black",
+      "ratio": 1.8183039381370638
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#3A3A3A",
+      "kind": "gray-on-black",
+      "ratio": 1.8462282124161935
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#3B3B3B",
+      "kind": "gray-on-black",
+      "ratio": 1.8747005851394694
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#3C3C3C",
+      "kind": "gray-on-black",
+      "ratio": 1.9037240877135109
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#3D3D3D",
+      "kind": "gray-on-black",
+      "ratio": 1.9333017267376018
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#3E3E3E",
+      "kind": "gray-on-black",
+      "ratio": 1.9634364845377883
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#3F3F3F",
+      "kind": "gray-on-black",
+      "ratio": 1.9941313196825445
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#404040",
+      "kind": "gray-on-black",
+      "ratio": 2.025389167480865
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#414141",
+      "kind": "gray-on-black",
+      "ratio": 2.0572129404636046
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#424242",
+      "kind": "gray-on-black",
+      "ratio": 2.089605528848847
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#434343",
+      "kind": "gray-on-black",
+      "ratio": 2.1225698009920015
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#444444",
+      "kind": "gray-on-black",
+      "ratio": 2.156108603821344
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#454545",
+      "kind": "gray-on-black",
+      "ratio": 2.1902247632596237
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#464646",
+      "kind": "gray-on-black",
+      "ratio": 2.224921084632352
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#474747",
+      "kind": "gray-on-black",
+      "ratio": 2.2602003530633534
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#484848",
+      "kind": "gray-on-black",
+      "ratio": 2.2960653338581154
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#494949",
+      "kind": "gray-on-black",
+      "ratio": 2.3325187728754577
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#4A4A4A",
+      "kind": "gray-on-black",
+      "ratio": 2.3695633968880028
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#4B4B4B",
+      "kind": "gray-on-black",
+      "ratio": 2.4072019139319174
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#4C4C4C",
+      "kind": "gray-on-black",
+      "ratio": 2.4454370136463495
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#4D4D4D",
+      "kind": "gray-on-black",
+      "ratio": 2.484271367602992
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#4E4E4E",
+      "kind": "gray-on-black",
+      "ratio": 2.5237076296261574
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#4F4F4F",
+      "kind": "gray-on-black",
+      "ratio": 2.5637484361037264
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#505050",
+      "kind": "gray-on-black",
+      "ratio": 2.6043964062893665
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#515151",
+      "kind": "gray-on-black",
+      "ratio": 2.6456541425962956
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#525252",
+      "kind": "gray-on-black",
+      "ratio": 2.687524230882976
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#535353",
+      "kind": "gray-on-black",
+      "ratio": 2.730009240730995
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#545454",
+      "kind": "gray-on-black",
+      "ratio": 2.773111725715459
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#555555",
+      "kind": "gray-on-black",
+      "ratio": 2.8168342236681534
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#565656",
+      "kind": "gray-on-black",
+      "ratio": 2.861179256933749
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#575757",
+      "kind": "gray-on-black",
+      "ratio": 2.9061493326192944
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#585858",
+      "kind": "gray-on-black",
+      "ratio": 2.9517469428372487
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#595959",
+      "kind": "gray-on-black",
+      "ratio": 2.9979745649422775
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#5A5A5A",
+      "kind": "gray-on-black",
+      "ratio": 3.0448346617620263
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#5B5B5B",
+      "kind": "gray-on-black",
+      "ratio": 3.0923296818220836
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#5C5C5C",
+      "kind": "gray-on-black",
+      "ratio": 3.140462059565352
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#5D5D5D",
+      "kind": "gray-on-black",
+      "ratio": 3.1892342155659867
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#5E5E5E",
+      "kind": "gray-on-black",
+      "ratio": 3.2386485567381116
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#5F5F5F",
+      "kind": "gray-on-black",
+      "ratio": 3.288707476539474
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#606060",
+      "kind": "gray-on-black",
+      "ratio": 3.3394133551702163
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#616161",
+      "kind": "gray-on-black",
+      "ratio": 3.3907685597669124
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#626262",
+      "kind": "gray-on-black",
+      "ratio": 3.442775444592037
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#636363",
+      "kind": "gray-on-black",
+      "ratio": 3.49543635121901
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#646464",
+      "kind": "gray-on-black",
+      "ratio": 3.548753608712949
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#656565",
+      "kind": "gray-on-black",
+      "ratio": 3.602729533807286
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#666666",
+      "kind": "gray-on-black",
+      "ratio": 3.6573664310763587
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#676767",
+      "kind": "gray-on-black",
+      "ratio": 3.7126665931041125
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#686868",
+      "kind": "gray-on-black",
+      "ratio": 3.768632300649036
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#696969",
+      "kind": "gray-on-black",
+      "ratio": 3.8252658228054326
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#6A6A6A",
+      "kind": "gray-on-black",
+      "ratio": 3.8825694171611556
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#6B6B6B",
+      "kind": "gray-on-black",
+      "ratio": 3.9405453299518998
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#6C6C6C",
+      "kind": "gray-on-black",
+      "ratio": 3.9991957962121716
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#6D6D6D",
+      "kind": "gray-on-black",
+      "ratio": 4.058523039923003
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#6E6E6E",
+      "kind": "gray-on-black",
+      "ratio": 4.118529274156548
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#6F6F6F",
+      "kind": "gray-on-black",
+      "ratio": 4.179216701217608
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#707070",
+      "kind": "gray-on-black",
+      "ratio": 4.24058751278222
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#717171",
+      "kind": "gray-on-black",
+      "ratio": 4.302643890033352
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#727272",
+      "kind": "gray-on-black",
+      "ratio": 4.365388003793815
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#737373",
+      "kind": "gray-on-black",
+      "ratio": 4.428822014656451
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#747474",
+      "kind": "gray-on-black",
+      "ratio": 4.492948073111701
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#757575",
+      "kind": "gray-on-black",
+      "ratio": 4.557768319672582
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#767676",
+      "kind": "gray-on-black",
+      "ratio": 4.6232848849972035
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#777777",
+      "kind": "gray-on-black",
+      "ratio": 4.68949989000882
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#787878",
+      "kind": "gray-on-black",
+      "ratio": 4.756415446013557
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#797979",
+      "kind": "gray-on-black",
+      "ratio": 4.8240336548158265
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#7A7A7A",
+      "kind": "gray-on-black",
+      "ratio": 4.892356608831516
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#7B7B7B",
+      "kind": "gray-on-black",
+      "ratio": 4.961386391198977
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#7C7C7C",
+      "kind": "gray-on-black",
+      "ratio": 5.031125075887941
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#7D7D7D",
+      "kind": "gray-on-black",
+      "ratio": 5.101574727806338
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#7E7E7E",
+      "kind": "gray-on-black",
+      "ratio": 5.172737402905114
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#7F7F7F",
+      "kind": "gray-on-black",
+      "ratio": 5.244615148281104
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#808080",
+      "kind": "gray-on-black",
+      "ratio": 5.317210002277984
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#818181",
+      "kind": "gray-on-black",
+      "ratio": 5.390523994585384
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#828282",
+      "kind": "gray-on-black",
+      "ratio": 5.46455914633617
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#838383",
+      "kind": "gray-on-black",
+      "ratio": 5.539317470201968
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#848484",
+      "kind": "gray-on-black",
+      "ratio": 5.614800970486982
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#858585",
+      "kind": "gray-on-black",
+      "ratio": 5.6910116432201034
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#868686",
+      "kind": "gray-on-black",
+      "ratio": 5.767951476245419
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#878787",
+      "kind": "gray-on-black",
+      "ratio": 5.845622449311096
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#888888",
+      "kind": "gray-on-black",
+      "ratio": 5.924026534156709
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#898989",
+      "kind": "gray-on-black",
+      "ratio": 6.003165694599068
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#8A8A8A",
+      "kind": "gray-on-black",
+      "ratio": 6.0830418866165346
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#8B8B8B",
+      "kind": "gray-on-black",
+      "ratio": 6.163657058431916
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#8C8C8C",
+      "kind": "gray-on-black",
+      "ratio": 6.245013150593924
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#8D8D8D",
+      "kind": "gray-on-black",
+      "ratio": 6.327112096057249
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#8E8E8E",
+      "kind": "gray-on-black",
+      "ratio": 6.409955820261316
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#8F8F8F",
+      "kind": "gray-on-black",
+      "ratio": 6.493546241207692
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#909090",
+      "kind": "gray-on-black",
+      "ratio": 6.577885269536206
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#919191",
+      "kind": "gray-on-black",
+      "ratio": 6.6629748085998415
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#929292",
+      "kind": "gray-on-black",
+      "ratio": 6.748816754538349
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#939393",
+      "kind": "gray-on-black",
+      "ratio": 6.835412996350716
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#949494",
+      "kind": "gray-on-black",
+      "ratio": 6.922765415966421
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#959595",
+      "kind": "gray-on-black",
+      "ratio": 7.010875888315529
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#969696",
+      "kind": "gray-on-black",
+      "ratio": 7.0997462813977235
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#979797",
+      "kind": "gray-on-black",
+      "ratio": 7.189378456350171
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#989898",
+      "kind": "gray-on-black",
+      "ratio": 7.27977426751435
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#999999",
+      "kind": "gray-on-black",
+      "ratio": 7.3709355625018365
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#9A9A9A",
+      "kind": "gray-on-black",
+      "ratio": 7.462864182259015
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#9B9B9B",
+      "kind": "gray-on-black",
+      "ratio": 7.5555619611308416
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#9C9C9C",
+      "kind": "gray-on-black",
+      "ratio": 7.649030726923587
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#9D9D9D",
+      "kind": "gray-on-black",
+      "ratio": 7.7432723009666065
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#9E9E9E",
+      "kind": "gray-on-black",
+      "ratio": 7.838288498173218
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#9F9F9F",
+      "kind": "gray-on-black",
+      "ratio": 7.934081127100591
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#A0A0A0",
+      "kind": "gray-on-black",
+      "ratio": 8.030651990008787
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#A1A1A1",
+      "kind": "gray-on-black",
+      "ratio": 8.128002882918869
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#A2A2A2",
+      "kind": "gray-on-black",
+      "ratio": 8.226135595670188
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#A3A3A3",
+      "kind": "gray-on-black",
+      "ratio": 8.32505191197679
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#A4A4A4",
+      "kind": "gray-on-black",
+      "ratio": 8.424753609482982
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#A5A5A5",
+      "kind": "gray-on-black",
+      "ratio": 8.525242459818129
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#A6A6A6",
+      "kind": "gray-on-black",
+      "ratio": 8.626520228650602
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#A7A7A7",
+      "kind": "gray-on-black",
+      "ratio": 8.728588675740978
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#A8A8A8",
+      "kind": "gray-on-black",
+      "ratio": 8.831449554994464
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#A9A9A9",
+      "kind": "gray-on-black",
+      "ratio": 8.935104614512536
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#AAAAAA",
+      "kind": "gray-on-black",
+      "ratio": 9.039555596643915
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#ABABAB",
+      "kind": "gray-on-black",
+      "ratio": 9.144804238034732
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#ACACAC",
+      "kind": "gray-on-black",
+      "ratio": 9.250852269678074
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#ADADAD",
+      "kind": "gray-on-black",
+      "ratio": 9.35770141696275
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#AEAEAE",
+      "kind": "gray-on-black",
+      "ratio": 9.465353399721433
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#AFAFAF",
+      "kind": "gray-on-black",
+      "ratio": 9.573809932278131
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#B0B0B0",
+      "kind": "gray-on-black",
+      "ratio": 9.683072723494979
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#B1B1B1",
+      "kind": "gray-on-black",
+      "ratio": 9.793143476818374
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#B2B2B2",
+      "kind": "gray-on-black",
+      "ratio": 9.904023890324556
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#B3B3B3",
+      "kind": "gray-on-black",
+      "ratio": 10.015715656764469
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#B4B4B4",
+      "kind": "gray-on-black",
+      "ratio": 10.128220463608093
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#B5B5B5",
+      "kind": "gray-on-black",
+      "ratio": 10.241539993088141
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#B6B6B6",
+      "kind": "gray-on-black",
+      "ratio": 10.35567592224318
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#B7B7B7",
+      "kind": "gray-on-black",
+      "ratio": 10.47062992296019
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#B8B8B8",
+      "kind": "gray-on-black",
+      "ratio": 10.586403662016535
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#B9B9B9",
+      "kind": "gray-on-black",
+      "ratio": 10.702998801121408
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#BABABA",
+      "kind": "gray-on-black",
+      "ratio": 10.82041699695671
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#BBBBBB",
+      "kind": "gray-on-black",
+      "ratio": 10.938659901217408
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#BCBCBC",
+      "kind": "gray-on-black",
+      "ratio": 11.057729160651375
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#BDBDBD",
+      "kind": "gray-on-black",
+      "ratio": 11.177626417098676
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#BEBEBE",
+      "kind": "gray-on-black",
+      "ratio": 11.298353307530428
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#BFBFBF",
+      "kind": "gray-on-black",
+      "ratio": 11.419911464087086
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#C0C0C0",
+      "kind": "gray-on-black",
+      "ratio": 11.542302514116262
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#C1C1C1",
+      "kind": "gray-on-black",
+      "ratio": 11.665528080210105
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#C2C2C2",
+      "kind": "gray-on-black",
+      "ratio": 11.789589780242144
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#C3C3C3",
+      "kind": "gray-on-black",
+      "ratio": 11.914489227403733
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#C4C4C4",
+      "kind": "gray-on-black",
+      "ratio": 12.040228030240003
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#C5C5C5",
+      "kind": "gray-on-black",
+      "ratio": 12.166807792685356
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#C6C6C6",
+      "kind": "gray-on-black",
+      "ratio": 12.294230114098585
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#C7C7C7",
+      "kind": "gray-on-black",
+      "ratio": 12.422496589297461
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#C8C8C8",
+      "kind": "gray-on-black",
+      "ratio": 12.551608808593013
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#C9C9C9",
+      "kind": "gray-on-black",
+      "ratio": 12.68156835782328
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#CACACA",
+      "kind": "gray-on-black",
+      "ratio": 12.812376818386737
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#CBCBCB",
+      "kind": "gray-on-black",
+      "ratio": 12.94403576727527
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#CCCCCC",
+      "kind": "gray-on-black",
+      "ratio": 13.076546777106755
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#CDCDCD",
+      "kind": "gray-on-black",
+      "ratio": 13.209911416157295
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#CECECE",
+      "kind": "gray-on-black",
+      "ratio": 13.344131248393023
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#CFCFCF",
+      "kind": "gray-on-black",
+      "ratio": 13.479207833501523
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#D0D0D0",
+      "kind": "gray-on-black",
+      "ratio": 13.615142726922935
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#D1D1D1",
+      "kind": "gray-on-black",
+      "ratio": 13.751937479880652
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#D2D2D2",
+      "kind": "gray-on-black",
+      "ratio": 13.889593639411643
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#D3D3D3",
+      "kind": "gray-on-black",
+      "ratio": 14.028112748396483
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#D4D4D4",
+      "kind": "gray-on-black",
+      "ratio": 14.167496345588969
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#D5D5D5",
+      "kind": "gray-on-black",
+      "ratio": 14.307745965645442
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#D6D6D6",
+      "kind": "gray-on-black",
+      "ratio": 14.44886313915375
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#D7D7D7",
+      "kind": "gray-on-black",
+      "ratio": 14.590849392661877
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#D8D8D8",
+      "kind": "gray-on-black",
+      "ratio": 14.733706248706273
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#D9D9D9",
+      "kind": "gray-on-black",
+      "ratio": 14.877435225839799
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#DADADA",
+      "kind": "gray-on-black",
+      "ratio": 15.022037838659463
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#DBDBDB",
+      "kind": "gray-on-black",
+      "ratio": 15.167515597833736
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#DCDCDC",
+      "kind": "gray-on-black",
+      "ratio": 15.313870010129614
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#DDDDDD",
+      "kind": "gray-on-black",
+      "ratio": 15.461102578439387
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#DEDEDE",
+      "kind": "gray-on-black",
+      "ratio": 15.609214801807074
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#DFDFDF",
+      "kind": "gray-on-black",
+      "ratio": 15.758208175454618
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#E0E0E0",
+      "kind": "gray-on-black",
+      "ratio": 15.908084190807749
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#E1E1E1",
+      "kind": "gray-on-black",
+      "ratio": 16.058844335521556
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#E2E2E2",
+      "kind": "gray-on-black",
+      "ratio": 16.210490093505847
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#E3E3E3",
+      "kind": "gray-on-black",
+      "ratio": 16.36302294495014
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#E4E4E4",
+      "kind": "gray-on-black",
+      "ratio": 16.51644436634847
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#E5E5E5",
+      "kind": "gray-on-black",
+      "ratio": 16.67075583052387
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#E6E6E6",
+      "kind": "gray-on-black",
+      "ratio": 16.825958806652604
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#E7E7E7",
+      "kind": "gray-on-black",
+      "ratio": 16.98205476028818
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#E8E8E8",
+      "kind": "gray-on-black",
+      "ratio": 17.13904515338503
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#E9E9E9",
+      "kind": "gray-on-black",
+      "ratio": 17.296931444322023
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#EAEAEA",
+      "kind": "gray-on-black",
+      "ratio": 17.455715087925668
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#EBEBEB",
+      "kind": "gray-on-black",
+      "ratio": 17.61539753549309
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#ECECEC",
+      "kind": "gray-on-black",
+      "ratio": 17.7759802348148
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#EDEDED",
+      "kind": "gray-on-black",
+      "ratio": 17.937464630197162
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#EEEEEE",
+      "kind": "gray-on-black",
+      "ratio": 18.099852162484677
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#EFEFEF",
+      "kind": "gray-on-black",
+      "ratio": 18.263144269082044
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#F0F0F0",
+      "kind": "gray-on-black",
+      "ratio": 18.427342383975944
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#F1F1F1",
+      "kind": "gray-on-black",
+      "ratio": 18.592447937756635
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#F2F2F2",
+      "kind": "gray-on-black",
+      "ratio": 18.758462357639324
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#F3F3F3",
+      "kind": "gray-on-black",
+      "ratio": 18.925387067485325
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#F4F4F4",
+      "kind": "gray-on-black",
+      "ratio": 19.093223487822993
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#F5F5F5",
+      "kind": "gray-on-black",
+      "ratio": 19.261973035868383
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#F6F6F6",
+      "kind": "gray-on-black",
+      "ratio": 19.43163712554589
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#F7F7F7",
+      "kind": "gray-on-black",
+      "ratio": 19.602217167508474
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#F8F8F8",
+      "kind": "gray-on-black",
+      "ratio": 19.77371456915776
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#F9F9F9",
+      "kind": "gray-on-black",
+      "ratio": 19.946130734663996
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#FAFAFA",
+      "kind": "gray-on-black",
+      "ratio": 20.119467064985724
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#FBFBFB",
+      "kind": "gray-on-black",
+      "ratio": 20.293724957889296
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#FCFCFC",
+      "kind": "gray-on-black",
+      "ratio": 20.46890580796825
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#FDFDFD",
+      "kind": "gray-on-black",
+      "ratio": 20.645011006662344
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#FEFEFE",
+      "kind": "gray-on-black",
+      "ratio": 20.822041942276595
+    },
+    {
+      "backdrop": null,
+      "background": "#000000",
+      "foreground": "#FFFFFF",
+      "kind": "gray-on-black",
+      "ratio": 21.0
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#000000",
+      "kind": "gray-on-white",
+      "ratio": 21.0
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#010101",
+      "kind": "gray-on-white",
+      "ratio": 20.87328787787365
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#020202",
+      "kind": "gray-on-white",
+      "ratio": 20.74809572362502
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#030303",
+      "kind": "gray-on-white",
+      "ratio": 20.62439635127884
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#040404",
+      "kind": "gray-on-white",
+      "ratio": 20.502163219344514
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#050505",
+      "kind": "gray-on-white",
+      "ratio": 20.381370411830552
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#060606",
+      "kind": "gray-on-white",
+      "ratio": 20.261992619926197
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#070707",
+      "kind": "gray-on-white",
+      "ratio": 20.144005124323062
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#080808",
+      "kind": "gray-on-white",
+      "ratio": 20.027383778150874
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#090909",
+      "kind": "gray-on-white",
+      "ratio": 19.912104990502506
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#0A0A0A",
+      "kind": "gray-on-white",
+      "ratio": 19.79814571052481
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#0B0B0B",
+      "kind": "gray-on-white",
+      "ratio": 19.682627652657427
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#0C0C0C",
+      "kind": "gray-on-white",
+      "ratio": 19.561630447769335
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#0D0D0D",
+      "kind": "gray-on-white",
+      "ratio": 19.435548355403956
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#0E0E0E",
+      "kind": "gray-on-white",
+      "ratio": 19.30450748626618
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#0F0F0F",
+      "kind": "gray-on-white",
+      "ratio": 19.168645448127652
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#101010",
+      "kind": "gray-on-white",
+      "ratio": 19.028110547666497
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#111111",
+      "kind": "gray-on-white",
+      "ratio": 18.883060964594996
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#121212",
+      "kind": "gray-on-white",
+      "ratio": 18.733663902900595
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#131313",
+      "kind": "gray-on-white",
+      "ratio": 18.58009472439472
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#141414",
+      "kind": "gray-on-white",
+      "ratio": 18.422536070011546
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#151515",
+      "kind": "gray-on-white",
+      "ratio": 18.26117697443392
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#161616",
+      "kind": "gray-on-white",
+      "ratio": 18.096211979655724
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#171717",
+      "kind": "gray-on-white",
+      "ratio": 17.9278402530276
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#181818",
+      "kind": "gray-on-white",
+      "ratio": 17.756264715186326
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#191919",
+      "kind": "gray-on-white",
+      "ratio": 17.581691183046004
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#1A1A1A",
+      "kind": "gray-on-white",
+      "ratio": 17.40432753274219
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#1B1B1B",
+      "kind": "gray-on-white",
+      "ratio": 17.224382887077635
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#1C1C1C",
+      "kind": "gray-on-white",
+      "ratio": 17.04206683163051
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#1D1D1D",
+      "kind": "gray-on-white",
+      "ratio": 16.857588663262874
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#1E1E1E",
+      "kind": "gray-on-white",
+      "ratio": 16.67115667431794
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#1F1F1F",
+      "kind": "gray-on-white",
+      "ratio": 16.48297747532879
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#202020",
+      "kind": "gray-on-white",
+      "ratio": 16.29325535858735
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#212121",
+      "kind": "gray-on-white",
+      "ratio": 16.102191704447957
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#222222",
+      "kind": "gray-on-white",
+      "ratio": 15.909984431773273
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#232323",
+      "kind": "gray-on-white",
+      "ratio": 15.716827493476563
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#242424",
+      "kind": "gray-on-white",
+      "ratio": 15.522910417680388
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#252525",
+      "kind": "gray-on-white",
+      "ratio": 15.328417894601541
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#262626",
+      "kind": "gray-on-white",
+      "ratio": 15.133529408889883
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#272727",
+      "kind": "gray-on-white",
+      "ratio": 14.938418916797357
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#282828",
+      "kind": "gray-on-white",
+      "ratio": 14.743254567235402
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#292929",
+      "kind": "gray-on-white",
+      "ratio": 14.5481984654954
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#2A2A2A",
+      "kind": "gray-on-white",
+      "ratio": 14.353406478158625
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#2B2B2B",
+      "kind": "gray-on-white",
+      "ratio": 14.159028077509387
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#2C2C2C",
+      "kind": "gray-on-white",
+      "ratio": 13.965206223587098
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#2D2D2D",
+      "kind": "gray-on-white",
+      "ratio": 13.772077281869057
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#2E2E2E",
+      "kind": "gray-on-white",
+      "ratio": 13.579770974464187
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#2F2F2F",
+      "kind": "gray-on-white",
+      "ratio": 13.38841036261703
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#303030",
+      "kind": "gray-on-white",
+      "ratio": 13.19811185826915
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#313131",
+      "kind": "gray-on-white",
+      "ratio": 13.008985262399184
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#323232",
+      "kind": "gray-on-white",
+      "ratio": 12.82113382786086
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#333333",
+      "kind": "gray-on-white",
+      "ratio": 12.63465434445799
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#343434",
+      "kind": "gray-on-white",
+      "ratio": 12.449637244033978
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#353535",
+      "kind": "gray-on-white",
+      "ratio": 12.266166723408645
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#363636",
+      "kind": "gray-on-white",
+      "ratio": 12.08432088306438
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#373737",
+      "kind": "gray-on-white",
+      "ratio": 11.90417187956471
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#383838",
+      "kind": "gray-on-white",
+      "ratio": 11.725786089779096
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#393939",
+      "kind": "gray-on-white",
+      "ratio": 11.549224285085952
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#3A3A3A",
+      "kind": "gray-on-white",
+      "ratio": 11.374541813829671
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#3B3B3B",
+      "kind": "gray-on-white",
+      "ratio": 11.201788790415135
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#3C3C3C",
+      "kind": "gray-on-white",
+      "ratio": 11.031010289533231
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#3D3D3D",
+      "kind": "gray-on-white",
+      "ratio": 10.862246544121685
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#3E3E3E",
+      "kind": "gray-on-white",
+      "ratio": 10.695533145776091
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#3F3F3F",
+      "kind": "gray-on-white",
+      "ratio": 10.53090124643501
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#404040",
+      "kind": "gray-on-white",
+      "ratio": 10.368377760269818
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#414141",
+      "kind": "gray-on-white",
+      "ratio": 10.207985564813495
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#424242",
+      "kind": "gray-on-white",
+      "ratio": 10.049743700462349
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#434343",
+      "kind": "gray-on-white",
+      "ratio": 9.893667567580328
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#444444",
+      "kind": "gray-on-white",
+      "ratio": 9.739769120526205
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#454545",
+      "kind": "gray-on-white",
+      "ratio": 9.58805705801013
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#464646",
+      "kind": "gray-on-white",
+      "ratio": 9.438537009266582
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#474747",
+      "kind": "gray-on-white",
+      "ratio": 9.291211715606421
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#484848",
+      "kind": "gray-on-white",
+      "ratio": 9.146081206980885
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#494949",
+      "kind": "gray-on-white",
+      "ratio": 9.003142973255406
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#4A4A4A",
+      "kind": "gray-on-white",
+      "ratio": 8.862392129950917
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#4B4B4B",
+      "kind": "gray-on-white",
+      "ratio": 8.723821578264971
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#4C4C4C",
+      "kind": "gray-on-white",
+      "ratio": 8.587422159234949
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#4D4D4D",
+      "kind": "gray-on-white",
+      "ratio": 8.453182801950636
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#4E4E4E",
+      "kind": "gray-on-white",
+      "ratio": 8.321090665764155
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#4F4F4F",
+      "kind": "gray-on-white",
+      "ratio": 8.191131276481592
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#505050",
+      "kind": "gray-on-white",
+      "ratio": 8.063288656552828
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#515151",
+      "kind": "gray-on-white",
+      "ratio": 7.9375454493049435
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#525252",
+      "kind": "gray-on-white",
+      "ratio": 7.81388303728913
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#535353",
+      "kind": "gray-on-white",
+      "ratio": 7.692281654833146
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#545454",
+      "kind": "gray-on-white",
+      "ratio": 7.572720494909749
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#555555",
+      "kind": "gray-on-white",
+      "ratio": 7.455177810447525
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#565656",
+      "kind": "gray-on-white",
+      "ratio": 7.339631010223789
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#575757",
+      "kind": "gray-on-white",
+      "ratio": 7.226056749490168
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#585858",
+      "kind": "gray-on-white",
+      "ratio": 7.114431015490301
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#595959",
+      "kind": "gray-on-white",
+      "ratio": 7.004729208035935
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#5A5A5A",
+      "kind": "gray-on-white",
+      "ratio": 6.896926215312931
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#5B5B5B",
+      "kind": "gray-on-white",
+      "ratio": 6.790996485092184
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#5C5C5C",
+      "kind": "gray-on-white",
+      "ratio": 6.686914091522715
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#5D5D5D",
+      "kind": "gray-on-white",
+      "ratio": 6.584652797685219
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#5E5E5E",
+      "kind": "gray-on-white",
+      "ratio": 6.484186114084169
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#5F5F5F",
+      "kind": "gray-on-white",
+      "ratio": 6.385487353255615
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#606060",
+      "kind": "gray-on-white",
+      "ratio": 6.288529680665899
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#616161",
+      "kind": "gray-on-white",
+      "ratio": 6.193286162073998
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#626262",
+      "kind": "gray-on-white",
+      "ratio": 6.09972980752698
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#636363",
+      "kind": "gray-on-white",
+      "ratio": 6.007833612154428
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#646464",
+      "kind": "gray-on-white",
+      "ratio": 5.917570593923599
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#656565",
+      "kind": "gray-on-white",
+      "ratio": 5.828913828512588
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#666666",
+      "kind": "gray-on-white",
+      "ratio": 5.74183648145415
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#676767",
+      "kind": "gray-on-white",
+      "ratio": 5.656311837697813
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#686868",
+      "kind": "gray-on-white",
+      "ratio": 5.572313328732911
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#696969",
+      "kind": "gray-on-white",
+      "ratio": 5.489814557409947
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#6A6A6A",
+      "kind": "gray-on-white",
+      "ratio": 5.408789320592422
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#6B6B6B",
+      "kind": "gray-on-white",
+      "ratio": 5.32921162976606
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#6C6C6C",
+      "kind": "gray-on-white",
+      "ratio": 5.251055729726986
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#6D6D6D",
+      "kind": "gray-on-white",
+      "ratio": 5.174296115465296
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#6E6E6E",
+      "kind": "gray-on-white",
+      "ratio": 5.098907547355162
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#6F6F6F",
+      "kind": "gray-on-white",
+      "ratio": 5.024865064757633
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#707070",
+      "kind": "gray-on-white",
+      "ratio": 4.952143998137194
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#717171",
+      "kind": "gray-on-white",
+      "ratio": 4.8807199797883385
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#727272",
+      "kind": "gray-on-white",
+      "ratio": 4.810568953263625
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#737373",
+      "kind": "gray-on-white",
+      "ratio": 4.741667181590045
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#747474",
+      "kind": "gray-on-white",
+      "ratio": 4.67399125435606
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#757575",
+      "kind": "gray-on-white",
+      "ratio": 4.607518093747377
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#767676",
+      "kind": "gray-on-white",
+      "ratio": 4.542224959605253
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#777777",
+      "kind": "gray-on-white",
+      "ratio": 4.478089453577214
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#787878",
+      "kind": "gray-on-white",
+      "ratio": 4.415089522426074
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#797979",
+      "kind": "gray-on-white",
+      "ratio": 4.353203460559552
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#7A7A7A",
+      "kind": "gray-on-white",
+      "ratio": 4.2924099118391155
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#7B7B7B",
+      "kind": "gray-on-white",
+      "ratio": 4.23268787072339
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#7C7C7C",
+      "kind": "gray-on-white",
+      "ratio": 4.174016682798076
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#7D7D7D",
+      "kind": "gray-on-white",
+      "ratio": 4.116376044741373
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#7E7E7E",
+      "kind": "gray-on-white",
+      "ratio": 4.059746003770842
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#7F7F7F",
+      "kind": "gray-on-white",
+      "ratio": 4.0041069566148515
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#808080",
+      "kind": "gray-on-white",
+      "ratio": 3.9494396480491156
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#818181",
+      "kind": "gray-on-white",
+      "ratio": 3.89572516903623
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#828282",
+      "kind": "gray-on-white",
+      "ratio": 3.8429449545037673
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#838383",
+      "kind": "gray-on-white",
+      "ratio": 3.791080780794159
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#848484",
+      "kind": "gray-on-white",
+      "ratio": 3.7401147628174307
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#858585",
+      "kind": "gray-on-white",
+      "ratio": 3.6900293509358773
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#868686",
+      "kind": "gray-on-white",
+      "ratio": 3.6408073276077046
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#878787",
+      "kind": "gray-on-white",
+      "ratio": 3.5924318038149794
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#888888",
+      "kind": "gray-on-white",
+      "ratio": 3.5448862152994005
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#898989",
+      "kind": "gray-on-white",
+      "ratio": 3.498154318627802
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#8A8A8A",
+      "kind": "gray-on-white",
+      "ratio": 3.4522201871078138
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#8B8B8B",
+      "kind": "gray-on-white",
+      "ratio": 3.4070682065725717
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#8C8C8C",
+      "kind": "gray-on-white",
+      "ratio": 3.362683071052112
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#8D8D8D",
+      "kind": "gray-on-white",
+      "ratio": 3.3190497783477215
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#8E8E8E",
+      "kind": "gray-on-white",
+      "ratio": 3.2761536255243473
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#8F8F8F",
+      "kind": "gray-on-white",
+      "ratio": 3.2339802043350576
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#909090",
+      "kind": "gray-on-white",
+      "ratio": 3.1925153965904713
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#919191",
+      "kind": "gray-on-white",
+      "ratio": 3.151745369485037
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#929292",
+      "kind": "gray-on-white",
+      "ratio": 3.1116565708912183
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#939393",
+      "kind": "gray-on-white",
+      "ratio": 3.072235724631629
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#949494",
+      "kind": "gray-on-white",
+      "ratio": 3.0334698257384747
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#959595",
+      "kind": "gray-on-white",
+      "ratio": 2.9953461357088114
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#969696",
+      "kind": "gray-on-white",
+      "ratio": 2.95785217776342
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#979797",
+      "kind": "gray-on-white",
+      "ratio": 2.9209757321164957
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#989898",
+      "kind": "gray-on-white",
+      "ratio": 2.8847048312626273
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#999999",
+      "kind": "gray-on-white",
+      "ratio": 2.849027755287037
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#9A9A9A",
+      "kind": "gray-on-white",
+      "ratio": 2.813933027204481
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#9B9B9B",
+      "kind": "gray-on-white",
+      "ratio": 2.779409408331677
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#9C9C9C",
+      "kind": "gray-on-white",
+      "ratio": 2.7454458936977137
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#9D9D9D",
+      "kind": "gray-on-white",
+      "ratio": 2.7120317074963944
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#9E9E9E",
+      "kind": "gray-on-white",
+      "ratio": 2.6791562985840893
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#9F9F9F",
+      "kind": "gray-on-white",
+      "ratio": 2.646809336026311
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#A0A0A0",
+      "kind": "gray-on-white",
+      "ratio": 2.6149807046958116
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#A1A1A1",
+      "kind": "gray-on-white",
+      "ratio": 2.583660500924753
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#A2A2A2",
+      "kind": "gray-on-white",
+      "ratio": 2.5528390282131155
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#A3A3A3",
+      "kind": "gray-on-white",
+      "ratio": 2.5225067929953044
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#A4A4A4",
+      "kind": "gray-on-white",
+      "ratio": 2.4926545004666014
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#A5A5A5",
+      "kind": "gray-on-white",
+      "ratio": 2.4632730504708715
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#A6A6A6",
+      "kind": "gray-on-white",
+      "ratio": 2.434353533450754
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#A7A7A7",
+      "kind": "gray-on-white",
+      "ratio": 2.405887226461303
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#A8A8A8",
+      "kind": "gray-on-white",
+      "ratio": 2.377865589247898
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#A9A9A9",
+      "kind": "gray-on-white",
+      "ratio": 2.3502802603890585
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#AAAAAA",
+      "kind": "gray-on-white",
+      "ratio": 2.3231230535045992
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#ABABAB",
+      "kind": "gray-on-white",
+      "ratio": 2.2963859535294997
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#ACACAC",
+      "kind": "gray-on-white",
+      "ratio": 2.270061113053618
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#ADADAD",
+      "kind": "gray-on-white",
+      "ratio": 2.2441408487273593
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#AEAEAE",
+      "kind": "gray-on-white",
+      "ratio": 2.218617637733213
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#AFAFAF",
+      "kind": "gray-on-white",
+      "ratio": 2.193484114323017
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#B0B0B0",
+      "kind": "gray-on-white",
+      "ratio": 2.16873306642071
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#B1B1B1",
+      "kind": "gray-on-white",
+      "ratio": 2.1443574322902235
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#B2B2B2",
+      "kind": "gray-on-white",
+      "ratio": 2.1203502972680965
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#B3B3B3",
+      "kind": "gray-on-white",
+      "ratio": 2.096704890560357
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#B4B4B4",
+      "kind": "gray-on-white",
+      "ratio": 2.073414582103096
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#B5B5B5",
+      "kind": "gray-on-white",
+      "ratio": 2.0504728794861493
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#B6B6B6",
+      "kind": "gray-on-white",
+      "ratio": 2.0278734249392305
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#B7B7B7",
+      "kind": "gray-on-white",
+      "ratio": 2.00560999237981
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#B8B8B8",
+      "kind": "gray-on-white",
+      "ratio": 1.9836764845220203
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#B9B9B9",
+      "kind": "gray-on-white",
+      "ratio": 1.9620669300457851
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#BABABA",
+      "kind": "gray-on-white",
+      "ratio": 1.9407754808254007
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#BBBBBB",
+      "kind": "gray-on-white",
+      "ratio": 1.9197964092167106
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#BCBCBC",
+      "kind": "gray-on-white",
+      "ratio": 1.8991241054020316
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#BDBDBD",
+      "kind": "gray-on-white",
+      "ratio": 1.878753074791962
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#BEBEBE",
+      "kind": "gray-on-white",
+      "ratio": 1.858677935483161
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#BFBFBF",
+      "kind": "gray-on-white",
+      "ratio": 1.8388934157712187
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#C0C0C0",
+      "kind": "gray-on-white",
+      "ratio": 1.8193943517176883
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#C1C1C1",
+      "kind": "gray-on-white",
+      "ratio": 1.8001756847703523
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#C2C2C2",
+      "kind": "gray-on-white",
+      "ratio": 1.7812324594358095
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#C3C3C3",
+      "kind": "gray-on-white",
+      "ratio": 1.7625598210034286
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#C4C4C4",
+      "kind": "gray-on-white",
+      "ratio": 1.7441530133197485
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#C5C5C5",
+      "kind": "gray-on-white",
+      "ratio": 1.7260073766123871
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#C6C6C6",
+      "kind": "gray-on-white",
+      "ratio": 1.7081183453625086
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#C7C7C7",
+      "kind": "gray-on-white",
+      "ratio": 1.6904814462249433
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#C8C8C8",
+      "kind": "gray-on-white",
+      "ratio": 1.6730922959950039
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#C9C9C9",
+      "kind": "gray-on-white",
+      "ratio": 1.6559465996211002
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#CACACA",
+      "kind": "gray-on-white",
+      "ratio": 1.6390401482622179
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#CBCBCB",
+      "kind": "gray-on-white",
+      "ratio": 1.6223688173893633
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#CCCCCC",
+      "kind": "gray-on-white",
+      "ratio": 1.6059285649300714
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#CDCDCD",
+      "kind": "gray-on-white",
+      "ratio": 1.5897154294550755
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#CECECE",
+      "kind": "gray-on-white",
+      "ratio": 1.5737255284062754
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#CFCFCF",
+      "kind": "gray-on-white",
+      "ratio": 1.5579550563651177
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#D0D0D0",
+      "kind": "gray-on-white",
+      "ratio": 1.5424002833605304
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#D1D1D1",
+      "kind": "gray-on-white",
+      "ratio": 1.527057553215567
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#D2D2D2",
+      "kind": "gray-on-white",
+      "ratio": 1.511923281931922
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#D3D3D3",
+      "kind": "gray-on-white",
+      "ratio": 1.4969939561114844
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#D4D4D4",
+      "kind": "gray-on-white",
+      "ratio": 1.482266131414131
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#D5D5D5",
+      "kind": "gray-on-white",
+      "ratio": 1.4677364310509453
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#D6D6D6",
+      "kind": "gray-on-white",
+      "ratio": 1.4534015443120838
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#D7D7D7",
+      "kind": "gray-on-white",
+      "ratio": 1.4392582251285146
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#D8D8D8",
+      "kind": "gray-on-white",
+      "ratio": 1.425303290666865
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#D9D9D9",
+      "kind": "gray-on-white",
+      "ratio": 1.4115336199566344
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#DADADA",
+      "kind": "gray-on-white",
+      "ratio": 1.3979461525490338
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#DBDBDB",
+      "kind": "gray-on-white",
+      "ratio": 1.3845378872067404
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#DCDCDC",
+      "kind": "gray-on-white",
+      "ratio": 1.3713058806238527
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#DDDDDD",
+      "kind": "gray-on-white",
+      "ratio": 1.3582472461753565
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#DEDEDE",
+      "kind": "gray-on-white",
+      "ratio": 1.3453591526954218
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#DFDFDF",
+      "kind": "gray-on-white",
+      "ratio": 1.3326388232838635
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#E0E0E0",
+      "kind": "gray-on-white",
+      "ratio": 1.320083534140116
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#E1E1E1",
+      "kind": "gray-on-white",
+      "ratio": 1.3076906134240802
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#E2E2E2",
+      "kind": "gray-on-white",
+      "ratio": 1.295457440143213
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#E3E3E3",
+      "kind": "gray-on-white",
+      "ratio": 1.283381443065256
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#E4E4E4",
+      "kind": "gray-on-white",
+      "ratio": 1.2714600996559875
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#E5E5E5",
+      "kind": "gray-on-white",
+      "ratio": 1.259690935041431
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#E6E6E6",
+      "kind": "gray-on-white",
+      "ratio": 1.2480715209939224
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#E7E7E7",
+      "kind": "gray-on-white",
+      "ratio": 1.2365994749414904
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#E8E8E8",
+      "kind": "gray-on-white",
+      "ratio": 1.2252724589999937
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#E9E9E9",
+      "kind": "gray-on-white",
+      "ratio": 1.2140881790274751
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#EAEAEA",
+      "kind": "gray-on-white",
+      "ratio": 1.2030443837002105
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#EBEBEB",
+      "kind": "gray-on-white",
+      "ratio": 1.192138863609936
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#ECECEC",
+      "kind": "gray-on-white",
+      "ratio": 1.1813694503817496
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#EDEDED",
+      "kind": "gray-on-white",
+      "ratio": 1.1707340158121988
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#EEEEEE",
+      "kind": "gray-on-white",
+      "ratio": 1.1602304710270739
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#EFEFEF",
+      "kind": "gray-on-white",
+      "ratio": 1.1498567656584315
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#F0F0F0",
+      "kind": "gray-on-white",
+      "ratio": 1.139610887040401
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#F1F1F1",
+      "kind": "gray-on-white",
+      "ratio": 1.129490859423316
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#F2F2F2",
+      "kind": "gray-on-white",
+      "ratio": 1.1194947432057414
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#F3F3F3",
+      "kind": "gray-on-white",
+      "ratio": 1.109620634183961
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#F4F4F4",
+      "kind": "gray-on-white",
+      "ratio": 1.099866662818517
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#F5F5F5",
+      "kind": "gray-on-white",
+      "ratio": 1.090230993517392
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#F6F6F6",
+      "kind": "gray-on-white",
+      "ratio": 1.0807118239354239
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#F7F7F7",
+      "kind": "gray-on-white",
+      "ratio": 1.07130738428959
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#F8F8F8",
+      "kind": "gray-on-white",
+      "ratio": 1.0620159366897584
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#F9F9F9",
+      "kind": "gray-on-white",
+      "ratio": 1.0528357744845473
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#FAFAFA",
+      "kind": "gray-on-white",
+      "ratio": 1.0437652216219326
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#FBFBFB",
+      "kind": "gray-on-white",
+      "ratio": 1.0348026320242472
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#FCFCFC",
+      "kind": "gray-on-white",
+      "ratio": 1.0259463889772262
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#FDFDFD",
+      "kind": "gray-on-white",
+      "ratio": 1.0171949045327755
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#FEFEFE",
+      "kind": "gray-on-white",
+      "ratio": 1.0085466189251153
+    },
+    {
+      "backdrop": null,
+      "background": "#FFFFFF",
+      "foreground": "#FFFFFF",
+      "kind": "gray-on-white",
+      "ratio": 1.0
+    },
+    {
+      "backdrop": null,
+      "background": "#64E324",
+      "foreground": "#B44",
+      "kind": "random-opaque",
+      "ratio": 3.1205824849868344
+    },
+    {
+      "backdrop": null,
+      "background": "#C726B7",
+      "foreground": "#1AADE1",
+      "kind": "random-opaque",
+      "ratio": 1.8472937507854694
+    },
+    {
+      "backdrop": null,
+      "background": "#331083",
+      "foreground": "#F6F",
+      "kind": "random-opaque",
+      "ratio": 5.5727057849534285
+    },
+    {
+      "backdrop": null,
+      "background": "74C6ED",
+      "foreground": "#140AA6",
+      "kind": "random-opaque",
+      "ratio": 6.800805533984437
+    },
+    {
+      "backdrop": null,
+      "background": "EFE91A",
+      "foreground": "#A57344",
+      "kind": "random-opaque",
+      "ratio": 3.18181462200437
+    },
+    {
+      "backdrop": null,
+      "background": "A254A2",
+      "foreground": "#94753D",
+      "kind": "random-opaque",
+      "ratio": 1.1259663769109551
+    },
+    {
+      "backdrop": null,
+      "background": "#CB1D14",
+      "foreground": "#CCBC8E",
+      "kind": "random-opaque",
+      "ratio": 2.9935338519453016
+    },
+    {
+      "backdrop": null,
+      "background": "#1F98B4",
+      "foreground": "#758",
+      "kind": "random-opaque",
+      "ratio": 1.8051956231398854
+    },
+    {
+      "backdrop": null,
+      "background": "#0169DD",
+      "foreground": "#B9F",
+      "kind": "random-opaque",
+      "ratio": 2.241373486718085
+    },
+    {
+      "backdrop": null,
+      "background": "#EBBB73",
+      "foreground": "#676",
+      "kind": "random-opaque",
+      "ratio": 2.7045827430673706
+    },
+    {
+      "backdrop": null,
+      "background": "#737D1C",
+      "foreground": "#af6507",
+      "kind": "random-opaque",
+      "ratio": 1.0017418252686143
+    },
+    {
+      "backdrop": null,
+      "background": "#69D9E6",
+      "foreground": "#17E",
+      "kind": "random-opaque",
+      "ratio": 2.5868854162447747
+    },
+    {
+      "backdrop": null,
+      "background": "0C7A4A",
+      "foreground": "#7F6C65",
+      "kind": "random-opaque",
+      "ratio": 1.0864520932682629
+    },
+    {
+      "backdrop": null,
+      "background": "627DBF",
+      "foreground": "#9B5EA1",
+      "kind": "random-opaque",
+      "ratio": 1.1542681225590299
+    },
+    {
+      "backdrop": null,
+      "background": "C6D162",
+      "foreground": "#A2D889",
+      "kind": "random-opaque",
+      "ratio": 1.0017439608748182
+    },
+    {
+      "backdrop": null,
+      "background": "#DC0426",
+      "foreground": "#28ffd5",
+      "kind": "random-opaque",
+      "ratio": 4.000271131771911
+    },
+    {
+      "backdrop": null,
+      "background": "#05313C",
+      "foreground": "#62438A",
+      "kind": "random-opaque",
+      "ratio": 1.7797111984788119
+    },
+    {
+      "backdrop": null,
+      "background": "#72D61D",
+      "foreground": "#0BF3C2",
+      "kind": "random-opaque",
+      "ratio": 1.2873209705370925
+    },
+    {
+      "backdrop": null,
+      "background": "#5C90A4",
+      "foreground": "#3bee3c",
+      "kind": "random-opaque",
+      "ratio": 2.2541887041283486
+    },
+    {
+      "backdrop": null,
+      "background": "#3A8351",
+      "foreground": "#BC24EA",
+      "kind": "random-opaque",
+      "ratio": 1.007366417000903
+    },
+    {
+      "backdrop": null,
+      "background": "#46C2F5",
+      "foreground": "#2d2c01",
+      "kind": "random-opaque",
+      "ratio": 6.992953574513112
+    },
+    {
+      "backdrop": null,
+      "background": "#0AD01A",
+      "foreground": "#46F2C9",
+      "kind": "random-opaque",
+      "ratio": 1.4730772049895253
+    },
+    {
+      "backdrop": null,
+      "background": "#4EDACD",
+      "foreground": "#ca134f",
+      "kind": "random-opaque",
+      "ratio": 3.291058111044825
+    },
+    {
+      "backdrop": null,
+      "background": "#8AEBD3",
+      "foreground": "#998",
+      "kind": "random-opaque",
+      "ratio": 2.0511499210111377
+    },
+    {
+      "backdrop": null,
+      "background": "#61CE9B",
+      "foreground": "#f3e04e",
+      "kind": "random-opaque",
+      "ratio": 1.4415402279040348
+    },
+    {
+      "backdrop": null,
+      "background": "#1D3DDD",
+      "foreground": "#A95",
+      "kind": "random-opaque",
+      "ratio": 2.676313300150247
+    },
+    {
+      "backdrop": null,
+      "background": "479AA1",
+      "foreground": "#897BF5",
+      "kind": "random-opaque",
+      "ratio": 1.0304776398214135
+    },
+    {
+      "backdrop": null,
+      "background": "#395513",
+      "foreground": "#360DDF",
+      "kind": "random-opaque",
+      "ratio": 1.0889524564581607
+    },
+    {
+      "backdrop": null,
+      "background": "#8FCE13",
+      "foreground": "#fed2af",
+      "kind": "random-opaque",
+      "ratio": 1.3676205848706002
+    },
+    {
+      "backdrop": null,
+      "background": "#2D3AE4",
+      "foreground": "#c84b16",
+      "kind": "random-opaque",
+      "ratio": 1.5769300479240256
+    },
+    {
+      "backdrop": null,
+      "background": "AF3303",
+      "foreground": "#8BF25E",
+      "kind": "random-opaque",
+      "ratio": 4.536664934977715
+    },
+    {
+      "backdrop": null,
+      "background": "B5967C",
+      "foreground": "#1B4C7B",
+      "kind": "random-opaque",
+      "ratio": 3.219390739838063
+    },
+    {
+      "backdrop": null,
+      "background": "#0E46C1",
+      "foreground": "#9B78A8",
+      "kind": "random-opaque",
+      "ratio": 2.118642596486568
+    },
+    {
+      "backdrop": null,
+      "background": "#B5917D",
+      "foreground": "#A4E6D8",
+      "kind": "random-opaque",
+      "ratio": 2.036480776237989
+    },
+    {
+      "backdrop": null,
+      "background": "#13BD9D",
+      "foreground": "#8B5",
+      "kind": "random-opaque",
+      "ratio": 1.056013622770383
+    },
+    {
+      "backdrop": null,
+      "background": "#BE1146",
+      "foreground": "#b8312a",
+      "kind": "random-opaque",
+      "ratio": 1.0454964335336583
+    },
+    {
+      "backdrop": null,
+      "background": "#FB24EB",
+      "foreground": "#fef0d8",
+      "kind": "random-opaque",
+      "ratio": 2.8486824139612774
+    },
+    {
+      "backdrop": null,
+      "background": "BD2830",
+      "foreground": "#5ACDDC",
+      "kind": "random-opaque",
+      "ratio": 3.191125074751139
+    },
+    {
+      "backdrop": null,
+      "background": "#C6C420",
+      "foreground": "#c6b21a",
+      "kind": "random-opaque",
+      "ratio": 1.156757787039052
+    },
+    {
+      "backdrop": null,
+      "background": "131A12",
+      "foreground": "#9D2E92",
+      "kind": "random-opaque",
+      "ratio": 2.7356293867725316
+    },
+    {
+      "backdrop": null,
+      "background": "#97CCA0",
+      "foreground": "#1A7",
+      "kind": "random-opaque",
+      "ratio": 1.6279045934138545
+    },
+    {
+      "backdrop": null,
+      "background": "0EA420",
+      "foreground": "#C77973",
+      "kind": "random-opaque",
+      "ratio": 1.0096413003350069
+    },
+    {
+      "backdrop": null,
+      "background": "#422BC0",
+      "foreground": "#F55F5D",
+      "kind": "random-opaque",
+      "ratio": 2.855614879860693
+    },
+    {
+      "backdrop": null,
+      "background": "#608CD4",
+      "foreground": "#EFF",
+      "kind": "random-opaque",
+      "ratio": 3.2880284649344427
+    },
+    {
+      "backdrop": null,
+      "background": "#B3F03E",
+      "foreground": "#FEC6DA",
+      "kind": "random-opaque",
+      "ratio": 1.0801265824315058
+    },
+    {
+      "backdrop": null,
+      "background": "46F152",
+      "foreground": "#21AA5D",
+      "kind": "random-opaque",
+      "ratio": 2.0027446334037364
+    },
+    {
+      "backdrop": null,
+      "background": "#767DDF",
+      "foreground": "#821abf",
+      "kind": "random-opaque",
+      "ratio": 2.024855008284264
+    },
+    {
+      "backdrop": null,
+      "background": "#74638C",
+      "foreground": "#585b1e",
+      "kind": "random-opaque",
+      "ratio": 1.3330589439354321
+    },
+    {
+      "backdrop": null,
+      "background": "#61ACBC",
+      "foreground": "#EE7",
+      "kind": "random-opaque",
+      "ratio": 2.105797986848372
+    },
+    {
+      "backdrop": null,
+      "background": "F4E1AB",
+      "foreground": "#51574A",
+      "kind": "random-opaque",
+      "ratio": 5.762662391809723
+    },
+    {
+      "backdrop": null,
+      "background": "1F4BC5",
+      "foreground": "#C17490",
+      "kind": "random-opaque",
+      "ratio": 2.148557798618376
+    },
+    {
+      "backdrop": null,
+      "background": "#70C030",
+      "foreground": "#743",
+      "kind": "random-opaque",
+      "ratio": 3.486778805336988
+    },
+    {
+      "backdrop": null,
+      "background": "#A04E5F",
+      "foreground": "#45A",
+      "kind": "random-opaque",
+      "ratio": 1.1996620413963546
+    },
+    {
+      "backdrop": null,
+      "background": "8EA995",
+      "foreground": "#D8BACF",
+      "kind": "random-opaque",
+      "ratio": 1.434056866855835
+    },
+    {
+      "backdrop": null,
+      "background": "#6CEE56",
+      "foreground": "#0DD",
+      "kind": "random-opaque",
+      "ratio": 1.130394043111006
+    },
+    {
+      "backdrop": null,
+      "background": "#B10086",
+      "foreground": "#5CD",
+      "kind": "random-opaque",
+      "ratio": 3.4438826413890395
+    },
+    {
+      "backdrop": null,
+      "background": "#9A9447",
+      "foreground": "#C80",
+      "kind": "random-opaque",
+      "ratio": 1.0579297293060101
+    },
+    {
+      "backdrop": null,
+      "background": "#B8EC7C",
+      "foreground": "#7F55EA",
+      "kind": "random-opaque",
+      "ratio": 3.491485230832556
+    },
+    {
+      "backdrop": null,
+      "background": "12CFA3",
+      "foreground": "#A49A70",
+      "kind": "random-opaque",
+      "ratio": 1.4095657929599292
+    },
+    {
+      "backdrop": null,
+      "background": "#D1BB09",
+      "foreground": "#22F",
+      "kind": "random-opaque",
+      "ratio": 3.9488574940065337
+    },
+    {
+      "backdrop": null,
+      "background": "#9F2FD4",
+      "foreground": "#cacee5",
+      "kind": "random-opaque",
+      "ratio": 3.5159377414239867
+    },
+    {
+      "backdrop": null,
+      "background": "#71549A",
+      "foreground": "#cdaa24",
+      "kind": "random-opaque",
+      "ratio": 2.7266485821130897
+    },
+    {
+      "backdrop": null,
+      "background": "#0B591E",
+      "foreground": "#F25149",
+      "kind": "random-opaque",
+      "ratio": 2.4568662721518826
+    },
+    {
+      "backdrop": null,
+      "background": "#6E870F",
+      "foreground": "#8ff10a",
+      "kind": "random-opaque",
+      "ratio": 2.8730344933639884
+    },
+    {
+      "backdrop": null,
+      "background": "#06080C",
+      "foreground": "#0826B3",
+      "kind": "random-opaque",
+      "ratio": 1.850096651838125
+    },
+    {
+      "backdrop": null,
+      "background": "#DB41E2",
+      "foreground": "#C42",
+      "kind": "random-opaque",
+      "ratio": 1.3279987146288257
+    },
+    {
+      "backdrop": null,
+      "background": "1FBDFD",
+      "foreground": "#8EA0FE",
+      "kind": "random-opaque",
+      "ratio": 1.133111304588568
+    },
+    {
+      "backdrop": null,
+      "background": "#BB5B2C",
+      "foreground": "#AE6",
+      "kind": "random-opaque",
+      "ratio": 3.256921476326275
+    },
+    {
+      "backdrop": null,
+      "background": "#4ED3E9",
+      "foreground": "#32138C",
+      "kind": "random-opaque",
+      "ratio": 7.35214489726591
+    },
+    {
+      "backdrop": null,
+      "background": "#B6C628",
+      "foreground": "#E08",
+      "kind": "random-opaque",
+      "ratio": 2.223485560710071
+    },
+    {
+      "backdrop": null,
+      "background": "#DE3186",
+      "foreground": "#D72",
+      "kind": "random-opaque",
+      "ratio": 1.3777017675335834
+    },
+    {
+      "backdrop": null,
+      "background": "E099C3",
+      "foreground": "#0DF3F8",
+      "kind": "random-opaque",
+      "ratio": 1.5968937727566748
+    },
+    {
+      "backdrop": null,
+      "background": "#BCB03A",
+      "foreground": "#FAE264",
+      "kind": "random-opaque",
+      "ratio": 1.7139437267026643
+    },
+    {
+      "backdrop": null,
+      "background": "#3B4873",
+      "foreground": "#0f9790",
+      "kind": "random-opaque",
+      "ratio": 2.4781856173731804
+    },
+    {
+      "backdrop": null,
+      "background": "#57CF0D",
+      "foreground": "#14EC2B",
+      "kind": "random-opaque",
+      "ratio": 1.2637936307031614
+    },
+    {
+      "backdrop": null,
+      "background": "5EEEB7",
+      "foreground": "#BCD3DD",
+      "kind": "random-opaque",
+      "ratio": 1.0658855322066891
+    },
+    {
+      "backdrop": null,
+      "background": "#E5EDD5",
+      "foreground": "#9510fd",
+      "kind": "random-opaque",
+      "ratio": 4.616513879159796
+    },
+    {
+      "backdrop": null,
+      "background": "A862D4",
+      "foreground": "#89064F",
+      "kind": "random-opaque",
+      "ratio": 2.434699977223514
+    },
+    {
+      "backdrop": null,
+      "background": "#2B3B66",
+      "foreground": "#ca2865",
+      "kind": "random-opaque",
+      "ratio": 2.0845828824607078
+    },
+    {
+      "backdrop": null,
+      "background": "6B4831",
+      "foreground": "#8DB6F6",
+      "kind": "random-opaque",
+      "ratio": 3.9109029199076475
+    },
+    {
+      "backdrop": null,
+      "background": "#AA7CF6",
+      "foreground": "#CBC",
+      "kind": "random-opaque",
+      "ratio": 1.6679868188811788
+    },
+    {
+      "backdrop": null,
+      "background": "#3AD0A8",
+      "foreground": "#60D9A7",
+      "kind": "random-opaque",
+      "ratio": 1.1126347740469915
+    },
+    {
+      "backdrop": null,
+      "background": "#7A8E28",
+      "foreground": "#f3c34d",
+      "kind": "random-opaque",
+      "ratio": 2.221643829163327
+    },
+    {
+      "backdrop": null,
+      "background": "9FB0F6",
+      "foreground": "#0AD4BF",
+      "kind": "random-opaque",
+      "ratio": 1.1165775109268445
+    },
+    {
+      "backdrop": null,
+      "background": "#84B4DF",
+      "foreground": "#FF9",
+      "kind": "random-opaque",
+      "ratio": 2.0904086232515167
+    },
+    {
+      "backdrop": null,
+      "background": "3E8304",
+      "foreground": "#81A909",
+      "kind": "random-opaque",
+      "ratio": 1.7094961942099016
+    },
+    {
+      "backdrop": null,
+      "background": "#32F43A",
+      "foreground": "#c06b98",
+      "kind": "random-opaque",
+      "ratio": 2.4383495779924886
+    },
+    {
+      "backdrop": null,
+      "background": "F5AADA",
+      "foreground": "#09761D",
+      "kind": "random-opaque",
+      "ratio": 3.2161402382796167
+    },
+    {
+      "backdrop": null,
+      "background": "#880F22",
+      "foreground": "#415",
+      "kind": "random-opaque",
+      "ratio": 1.4674436821896857
+    },
+    {
+      "backdrop": null,
+      "background": "#7DBD8F",
+      "foreground": "#987",
+      "kind": "random-opaque",
+      "ratio": 1.5543601184051254
+    },
+    {
+      "backdrop": null,
+      "background": "#350DBE",
+      "foreground": "#A53",
+      "kind": "random-opaque",
+      "ratio": 2.0775614386798837
+    },
+    {
+      "backdrop": null,
+      "background": "49D34E",
+      "foreground": "#2DD4D5",
+      "kind": "random-opaque",
+      "ratio": 1.0727082504579635
+    },
+    {
+      "backdrop": null,
+      "background": "#DE3879",
+      "foreground": "#DF5BD5",
+      "kind": "random-opaque",
+      "ratio": 1.3329163659049017
+    },
+    {
+      "backdrop": null,
+      "background": "#B7B06B",
+      "foreground": "#830f00",
+      "kind": "random-opaque",
+      "ratio": 4.640479278694101
+    },
+    {
+      "backdrop": null,
+      "background": "D1FD16",
+      "foreground": "#9B2EB6",
+      "kind": "random-opaque",
+      "ratio": 5.13665001519068
+    },
+    {
+      "backdrop": null,
+      "background": "CDD17E",
+      "foreground": "#D6BED2",
+      "kind": "random-opaque",
+      "ratio": 1.07091964425971
+    },
+    {
+      "backdrop": null,
+      "background": "#2C6986",
+      "foreground": "#AE9161",
+      "kind": "random-opaque",
+      "ratio": 2.022628567866451
+    },
+    {
+      "backdrop": null,
+      "background": "#2E80E5",
+      "foreground": "#0BC",
+      "kind": "random-opaque",
+      "ratio": 1.683150740547142
+    },
+    {
+      "backdrop": null,
+      "background": "#79C7E0",
+      "foreground": "#3F39CF",
+      "kind": "random-opaque",
+      "ratio": 4.099464035630162
+    },
+    {
+      "backdrop": null,
+      "background": "#6C8664",
+      "foreground": "#4B5FE7",
+      "kind": "random-opaque",
+      "ratio": 1.2791541054293436
+    },
+    {
+      "backdrop": null,
+      "background": "#E56A0A",
+      "foreground": "#CC70B1",
+      "kind": "random-opaque",
+      "ratio": 1.019133384496133
+    },
+    {
+      "backdrop": null,
+      "background": "80B2D4",
+      "foreground": "#476544",
+      "kind": "random-opaque",
+      "ratio": 2.8749104528373857
+    },
+    {
+      "backdrop": null,
+      "background": "08CFA3",
+      "foreground": "#4E19F8",
+      "kind": "random-opaque",
+      "ratio": 3.7127873178330963
+    },
+    {
+      "backdrop": null,
+      "background": "#E3922C",
+      "foreground": "#C56E69",
+      "kind": "random-opaque",
+      "ratio": 1.4486043932887247
+    },
+    {
+      "backdrop": null,
+      "background": "#4E4310",
+      "foreground": "#B1A",
+      "kind": "random-opaque",
+      "ratio": 1.7680843068148284
+    },
+    {
+      "backdrop": null,
+      "background": "#94C2C1",
+      "foreground": "#C25718",
+      "kind": "random-opaque",
+      "ratio": 2.3008942856406445
+    },
+    {
+      "backdrop": null,
+      "background": "#C18AE8",
+      "foreground": "#0EF",
+      "kind": "random-opaque",
+      "ratio": 1.818739785008066
+    },
+    {
+      "backdrop": null,
+      "background": "D2038E",
+      "foreground": "#E9B248",
+      "kind": "random-opaque",
+      "ratio": 2.6367253035881664
+    },
+    {
+      "backdrop": null,
+      "background": "1F67BF",
+      "foreground": "#9AFB5C",
+      "kind": "random-opaque",
+      "ratio": 4.353191162389616
+    },
+    {
+      "backdrop": null,
+      "background": "#005552",
+      "foreground": "#5b5689",
+      "kind": "random-opaque",
+      "ratio": 1.2956891683670304
+    },
+    {
+      "backdrop": null,
+      "background": "#771DE9",
+      "foreground": "#cdc916",
+      "kind": "random-opaque",
+      "ratio": 3.813496847191383
+    },
+    {
+      "backdrop": null,
+      "background": "F09D4D",
+      "foreground": "#528805",
+      "kind": "random-opaque",
+      "ratio": 1.9733258011757304
+    },
+    {
+      "backdrop": null,
+      "background": "#64A0C6",
+      "foreground": "#0B73E2",
+      "kind": "random-opaque",
+      "ratio": 1.6179809829988179
+    },
+    {
+      "backdrop": null,
+      "background": "#F20188",
+      "foreground": "#892415",
+      "kind": "random-opaque",
+      "ratio": 2.206975407493919
+    },
+    {
+      "backdrop": null,
+      "background": "D43B43",
+      "foreground": "#1E66FD",
+      "kind": "random-opaque",
+      "ratio": 1.0301598807439576
+    },
+    {
+      "backdrop": null,
+      "background": "#C701EB",
+      "foreground": "#8544f5",
+      "kind": "random-opaque",
+      "ratio": 1.1182144464749866
+    },
+    {
+      "backdrop": null,
+      "background": "3F33D1",
+      "foreground": "#7F855E",
+      "kind": "random-opaque",
+      "ratio": 2.079791116722612
+    },
+    {
+      "backdrop": null,
+      "background": "#58CC90",
+      "foreground": "#314f3c",
+      "kind": "random-opaque",
+      "ratio": 4.517609279333516
+    },
+    {
+      "backdrop": null,
+      "background": "B89F43",
+      "foreground": "#76452A",
+      "kind": "random-opaque",
+      "ratio": 3.042710494648418
+    },
+    {
+      "backdrop": null,
+      "background": "#0D4E7F",
+      "foreground": "#AF4CCE",
+      "kind": "random-opaque",
+      "ratio": 1.9673292942847935
+    },
+    {
+      "backdrop": null,
+      "background": "#94464D",
+      "foreground": "#fee5be",
+      "kind": "random-opaque",
+      "ratio": 5.294038391070092
+    },
+    {
+      "backdrop": null,
+      "background": "DCA817",
+      "foreground": "#E297F1",
+      "kind": "random-opaque",
+      "ratio": 1.0283760181615567
+    },
+    {
+      "backdrop": null,
+      "background": "4C0D76",
+      "foreground": "#822A06",
+      "kind": "random-opaque",
+      "ratio": 1.4036409511220629
+    },
+    {
+      "backdrop": null,
+      "background": "#51BE80",
+      "foreground": "#0F47A8",
+      "kind": "random-opaque",
+      "ratio": 3.6295997599788077
+    },
+    {
+      "backdrop": null,
+      "background": "#32236D",
+      "foreground": "#76acd6",
+      "kind": "random-opaque",
+      "ratio": 5.412076095927259
+    },
+    {
+      "backdrop": null,
+      "background": "#185EA9",
+      "foreground": "#EFE",
+      "kind": "random-opaque",
+      "ratio": 6.279203276423336
+    },
+    {
+      "backdrop": null,
+      "background": "#DEC23C",
+      "foreground": "#fd095e",
+      "kind": "random-opaque",
+      "ratio": 2.210779965302418
+    },
+    {
+      "backdrop": null,
+      "background": "#42510E",
+      "foreground": "#DC3BC6",
+      "kind": "random-opaque",
+      "ratio": 2.2709074781279677
+    },
+    {
+      "backdrop": null,
+      "background": "C2A402",
+      "foreground": "#9BA433",
+      "kind": "random-opaque",
+      "ratio": 1.1100697483474709
+    },
+    {
+      "backdrop": null,
+      "background": "#CEAA67",
+      "foreground": "#ab6138",
+      "kind": "random-opaque",
+      "ratio": 2.1273675044727347
+    },
+    {
+      "backdrop": null,
+      "background": "#719E7C",
+      "foreground": "#CD4",
+      "kind": "random-opaque",
+      "ratio": 2.032780524004132
+    },
+    {
+      "backdrop": null,
+      "background": "#0751F5",
+      "foreground": "#cf253b",
+      "kind": "random-opaque",
+      "ratio": 1.1359214896609833
+    },
+    {
+      "backdrop": null,
+      "background": "#9840D8",
+      "foreground": "#2FD",
+      "kind": "random-opaque",
+      "ratio": 4.043364432521016
+    },
+    {
+      "backdrop": null,
+      "background": "#AF1D1D",
+      "foreground": "#e61447",
+      "kind": "random-opaque",
+      "ratio": 1.510353231055738
+    },
+    {
+      "backdrop": null,
+      "background": "#43B15A",
+      "foreground": "#C4C",
+      "kind": "random-opaque",
+      "ratio": 1.4574227387222842
+    },
+    {
+      "backdrop": null,
+      "background": "#E9AA1D",
+      "foreground": "#E45",
+      "kind": "random-opaque",
+      "ratio": 1.8293457918034286
+    },
+    {
+      "backdrop": null,
+      "background": "#0C7C2E",
+      "foreground": "#B69075",
+      "kind": "random-opaque",
+      "ratio": 1.837208122168063
+    },
+    {
+      "backdrop": null,
+      "background": "#6EDDB3",
+      "foreground": "#506BF1",
+      "kind": "random-opaque",
+      "ratio": 2.6846800595766322
+    },
+    {
+      "backdrop": null,
+      "background": "#59FFAB",
+      "foreground": "#083508",
+      "kind": "random-opaque",
+      "ratio": 10.71309877061027
+    },
+    {
+      "backdrop": null,
+      "background": "#D4F51A",
+      "foreground": "#3c5449",
+      "kind": "random-opaque",
+      "ratio": 6.6010142994028165
+    },
+    {
+      "backdrop": null,
+      "background": "#24FAA8",
+      "foreground": "#FFF",
+      "kind": "random-opaque",
+      "ratio": 1.3712327174663028
+    },
+    {
+      "backdrop": null,
+      "background": "#F0ADC8",
+      "foreground": "#888E03",
+      "kind": "random-opaque",
+      "ratio": 1.9462227637832892
+    },
+    {
+      "backdrop": null,
+      "background": "#6DC605",
+      "foreground": "#939",
+      "kind": "random-opaque",
+      "ratio": 2.95929034520987
+    },
+    {
+      "backdrop": null,
+      "background": "#E70DB3",
+      "foreground": "#D92",
+      "kind": "random-opaque",
+      "ratio": 1.6947771778027412
+    },
+    {
+      "backdrop": null,
+      "background": "#800890",
+      "foreground": "#93E78C",
+      "kind": "random-opaque",
+      "ratio": 5.965139039204214
+    },
+    {
+      "backdrop": null,
+      "background": "#C2D621",
+      "foreground": "#427b3f",
+      "kind": "random-opaque",
+      "ratio": 3.1268248427415513
+    },
+    {
+      "backdrop": null,
+      "background": "#E43539",
+      "foreground": "#4f3e08",
+      "kind": "random-opaque",
+      "ratio": 2.4035047451830702
+    },
+    {
+      "backdrop": null,
+      "background": "#C1BDB6",
+      "foreground": "#25072F",
+      "kind": "random-opaque",
+      "ratio": 9.757406334904566
+    },
+    {
+      "backdrop": null,
+      "background": "#CD9D72",
+      "foreground": "#661",
+      "kind": "random-opaque",
+      "ratio": 2.493551249988628
+    },
+    {
+      "backdrop": null,
+      "background": "5D920F",
+      "foreground": "#DDE9DF",
+      "kind": "random-opaque",
+      "ratio": 3.007860092132343
+    },
+    {
+      "backdrop": null,
+      "background": "#E0C6FE",
+      "foreground": "#6B9",
+      "kind": "random-opaque",
+      "ratio": 1.4976615398729054
+    },
+    {
+      "backdrop": null,
+      "background": "#AE4E91",
+      "foreground": "#739",
+      "kind": "random-opaque",
+      "ratio": 1.5814992893976747
+    },
+    {
+      "backdrop": null,
+      "background": "#EB91DE",
+      "foreground": "#73942C",
+      "kind": "random-opaque",
+      "ratio": 1.6058820046822906
+    },
+    {
+      "backdrop": null,
+      "background": "#8B5160",
+      "foreground": "#715",
+      "kind": "random-opaque",
+      "ratio": 1.7255085535551997
+    },
+    {
+      "backdrop": null,
+      "background": "#3C570A",
+      "foreground": "#27C",
+      "kind": "random-opaque",
+      "ratio": 1.7886890941001121
+    },
+    {
+      "backdrop": null,
+      "background": "D0B0F6",
+      "foreground": "#0ECA14",
+      "kind": "random-opaque",
+      "ratio": 1.1842243440937934
+    },
+    {
+      "backdrop": null,
+      "background": "D3ABC4",
+      "foreground": "#8E36D5",
+      "kind": "random-opaque",
+      "ratio": 2.8560225525065284
+    },
+    {
+      "backdrop": null,
+      "background": "#2173D4",
+      "foreground": "#ef7a49",
+      "kind": "random-opaque",
+      "ratio": 1.6899623116856335
+    },
+    {
+      "backdrop": null,
+      "background": "#4614B8",
+      "foreground": "#B1DA2C",
+      "kind": "random-opaque",
+      "ratio": 6.301390628584617
+    },
+    {
+      "backdrop": null,
+      "background": "#74A6E9",
+      "foreground": "#03B7D9",
+      "kind": "random-opaque",
+      "ratio": 1.0484241582660063
+    },
+    {
+      "backdrop": null,
+      "background": "#3B8391",
+      "foreground": "#E49",
+      "kind": "random-opaque",
+      "ratio": 1.2232665395970175
+    },
+    {
+      "backdrop": null,
+      "background": "#D05ADC",
+      "foreground": "#B73006",
+      "kind": "random-opaque",
+      "ratio": 1.7964949376446864
+    },
+    {
+      "backdrop": null,
+      "background": "#31D5DD",
+      "foreground": "#9e7697",
+      "kind": "random-opaque",
+      "ratio": 2.128959081516506
+    },
+    {
+      "backdrop": null,
+      "background": "#58D778",
+      "foreground": "#5c023a",
+      "kind": "random-opaque",
+      "ratio": 7.480329781122383
+    },
+    {
+      "backdrop": null,
+      "background": "#939784",
+      "foreground": "#1b07fe",
+      "kind": "random-opaque",
+      "ratio": 2.7910826822258255
+    },
+    {
+      "backdrop": null,
+      "background": "#895192",
+      "foreground": "#5E5",
+      "kind": "random-opaque",
+      "ratio": 3.7604872275530683
+    },
+    {
+      "backdrop": null,
+      "background": "CCEF41",
+      "foreground": "#4FCB55",
+      "kind": "random-opaque",
+      "ratio": 1.5980812551316113
+    },
+    {
+      "backdrop": null,
+      "background": "#691262",
+      "foreground": "#433a7a",
+      "kind": "random-opaque",
+      "ratio": 1.1402525075776817
+    },
+    {
+      "backdrop": null,
+      "background": "#97347A",
+      "foreground": "#7b0db8",
+      "kind": "random-opaque",
+      "ratio": 1.1914380261101927
+    },
+    {
+      "backdrop": null,
+      "background": "#7C8FED",
+      "foreground": "#EEDD9B",
+      "kind": "random-opaque",
+      "ratio": 2.2045329037257084
+    },
+    {
+      "backdrop": null,
+      "background": "#C3B46E",
+      "foreground": "#025",
+      "kind": "random-opaque",
+      "ratio": 7.407486880446123
+    },
+    {
+      "backdrop": null,
+      "background": "#56EDF7",
+      "foreground": "#8eca9b",
+      "kind": "random-opaque",
+      "ratio": 1.341480370071762
+    },
+    {
+      "backdrop": null,
+      "background": "#41FE21",
+      "foreground": "#CFDDC3",
+      "kind": "random-opaque",
+      "ratio": 1.043274909897704
+    },
+    {
+      "backdrop": null,
+      "background": "#9D32F4",
+      "foreground": "#BE8500",
+      "kind": "random-opaque",
+      "ratio": 1.5596146594262459
+    },
+    {
+      "backdrop": null,
+      "background": "#D00BFB",
+      "foreground": "#250A41",
+      "kind": "random-opaque",
+      "ratio": 4.2747091859386535
+    },
+    {
+      "backdrop": null,
+      "background": "#8923DA",
+      "foreground": "#D89",
+      "kind": "random-opaque",
+      "ratio": 2.4291065699266587
+    },
+    {
+      "backdrop": null,
+      "background": "#90EEB3",
+      "foreground": "#2cc9d0",
+      "kind": "random-opaque",
+      "ratio": 1.4525439549213641
+    },
+    {
+      "backdrop": null,
+      "background": "#99B8A1",
+      "foreground": "#645",
+      "kind": "random-opaque",
+      "ratio": 3.8546865359419815
+    },
+    {
+      "backdrop": null,
+      "background": "#807E69",
+      "foreground": "#F5A",
+      "kind": "random-opaque",
+      "ratio": 1.396714753451333
+    },
+    {
+      "backdrop": null,
+      "background": "#A56AB6",
+      "foreground": "#00909a",
+      "kind": "random-opaque",
+      "ratio": 1.0222902819452202
+    },
+    {
+      "backdrop": null,
+      "background": "9810CE",
+      "foreground": "#ECC176",
+      "kind": "random-opaque",
+      "ratio": 3.7740877150769445
+    },
+    {
+      "backdrop": null,
+      "background": "#1F9906",
+      "foreground": "#D5E",
+      "kind": "random-opaque",
+      "ratio": 1.1764265037028319
+    },
+    {
+      "backdrop": null,
+      "background": "#F94B2A",
+      "foreground": "#DC3",
+      "kind": "random-opaque",
+      "ratio": 2.102797623437028
+    },
+    {
+      "backdrop": null,
+      "background": "E68DFA",
+      "foreground": "#39B08D",
+      "kind": "random-opaque",
+      "ratio": 1.2299287183836198
+    },
+    {
+      "backdrop": null,
+      "background": "#44AF02",
+      "foreground": "#B62",
+      "kind": "random-opaque",
+      "ratio": 1.4650051691501838
+    },
+    {
+      "backdrop": null,
+      "background": "#CDBDB9",
+      "foreground": "#1E09B1",
+      "kind": "random-opaque",
+      "ratio": 6.69430906546679
+    },
+    {
+      "backdrop": null,
+      "background": "F46CB3",
+      "foreground": "#81B7A6",
+      "kind": "random-opaque",
+      "ratio": 1.211299864072785
+    },
+    {
+      "backdrop": null,
+      "background": "#09F5EE",
+      "foreground": "#4baefd",
+      "kind": "random-opaque",
+      "ratio": 1.745013074896927
+    },
+    {
+      "backdrop": null,
+      "background": "#438450",
+      "foreground": "#309F30",
+      "kind": "random-opaque",
+      "ratio": 1.3163498795539672
+    },
+    {
+      "backdrop": null,
+      "background": "#933CBF",
+      "foreground": "#2B2",
+      "kind": "random-opaque",
+      "ratio": 2.2529915951910473
+    },
+    {
+      "backdrop": null,
+      "background": "#F5B112",
+      "foreground": "#19F16F",
+      "kind": "random-opaque",
+      "ratio": 1.2390774617426186
+    },
+    {
+      "backdrop": null,
+      "background": "#FA28CF",
+      "foreground": "#285168",
+      "kind": "random-opaque",
+      "ratio": 2.54117741834365
+    },
+    {
+      "backdrop": null,
+      "background": "DD5B03",
+      "foreground": "#A79AE9",
+      "kind": "random-opaque",
+      "ratio": 1.5150224257851
+    },
+    {
+      "backdrop": null,
+      "background": "#40204A",
+      "foreground": "#65d703",
+      "kind": "random-opaque",
+      "ratio": 7.400683965249521
+    },
+    {
+      "backdrop": null,
+      "background": "#0BBC1D",
+      "foreground": "#37F700",
+      "kind": "random-opaque",
+      "ratio": 1.7588200699300078
+    },
+    {
+      "backdrop": null,
+      "background": "#914610",
+      "foreground": "#C00",
+      "kind": "random-opaque",
+      "ratio": 1.1554593184345587
+    },
+    {
+      "backdrop": null,
+      "background": "#93FCB0",
+      "foreground": "#13fc82",
+      "kind": "random-opaque",
+      "ratio": 1.0993503336757022
+    },
+    {
+      "backdrop": null,
+      "background": "#BA4CAF",
+      "foreground": "#130",
+      "kind": "random-opaque",
+      "ratio": 3.1659797129873968
+    },
+    {
+      "backdrop": null,
+      "background": "F108C2",
+      "foreground": "#99BBE6",
+      "kind": "random-opaque",
+      "ratio": 1.9095108482468641
+    },
+    {
+      "backdrop": null,
+      "background": "C0E78E",
+      "foreground": "#60CBAC",
+      "kind": "random-opaque",
+      "ratio": 1.4162320067119736
+    },
+    {
+      "backdrop": null,
+      "background": "#FE217A",
+      "foreground": "#60F9F700",
+      "kind": "translucent-foreground",
+      "ratio": 1.0
+    },
+    {
+      "backdrop": "#630870",
+      "background": "#93915500",
+      "foreground": "#08713D",
+      "kind": "translucent-background",
+      "ratio": 1.9117920412963454
+    },
+    {
+      "backdrop": "#423935",
+      "background": "#B9B3A300",
+      "foreground": "#7EB201F5",
+      "kind": "both-translucent",
+      "ratio": 4.201712083096235
+    },
+    {
+      "backdrop": null,
+      "background": "#C11B91",
+      "foreground": "#18F2F601",
+      "kind": "translucent-foreground",
+      "ratio": 1.0018530109073935
+    },
+    {
+      "backdrop": "#507970",
+      "background": "#7D9BF801",
+      "foreground": "#2F54E0",
+      "kind": "translucent-background",
+      "ratio": 1.246745238605915
+    },
+    {
+      "backdrop": "#D76799",
+      "background": "#552E9001",
+      "foreground": "#8957A01C",
+      "kind": "both-translucent",
+      "ratio": 1.0526016751166074
+    },
+    {
+      "backdrop": null,
+      "background": "#17EB1E",
+      "foreground": "#2AB3147F",
+      "kind": "translucent-foreground",
+      "ratio": 1.2922053155889839
+    },
+    {
+      "backdrop": "#44A125",
+      "background": "#D90E0E7F",
+      "foreground": "#A581E5",
+      "kind": "translucent-background",
+      "ratio": 1.9316352706116202
+    },
+    {
+      "backdrop": "#8DB27D",
+      "background": "#4F75057F",
+      "foreground": "#BA09D3CF",
+      "kind": "both-translucent",
+      "ratio": 1.6188242686740602
+    },
+    {
+      "backdrop": null,
+      "background": "#1526E2",
+      "foreground": "#06E38D80",
+      "kind": "translucent-foreground",
+      "ratio": 2.0987266812292344
+    },
+    {
+      "backdrop": "#0DD9D0",
+      "background": "#AF9D2E80",
+      "foreground": "#60E2A0",
+      "kind": "translucent-background",
+      "ratio": 1.4504772231153993
+    },
+    {
+      "backdrop": "#3D66A2",
+      "background": "#34BCED80",
+      "foreground": "#7000FAF9",
+      "kind": "both-translucent",
+      "ratio": 1.9860463874630376
+    },
+    {
+      "backdrop": null,
+      "background": "#AEDDB7",
+      "foreground": "#45416AFE",
+      "kind": "translucent-foreground",
+      "ratio": 6.184269185070341
+    },
+    {
+      "backdrop": "#D8C72F",
+      "background": "#743A61FE",
+      "foreground": "#014E64",
+      "kind": "translucent-background",
+      "ratio": 1.114826298141441
+    },
+    {
+      "backdrop": "#24D776",
+      "background": "#2256F4FE",
+      "foreground": "#833CF999",
+      "kind": "both-translucent",
+      "ratio": 1.0072370711546104
+    },
+    {
+      "backdrop": null,
+      "background": "#324929",
+      "foreground": "#1E2D10FF",
+      "kind": "translucent-foreground",
+      "ratio": 1.4746862787986448
+    },
+    {
+      "backdrop": "#C635D3",
+      "background": "#2F643EFF",
+      "foreground": "#667827",
+      "kind": "translucent-background",
+      "ratio": 1.4206506130484124
+    },
+    {
+      "backdrop": "#777A4C",
+      "background": "#472EFAFF",
+      "foreground": "#2AA9C35C",
+      "kind": "both-translucent",
+      "ratio": 1.2553192760754919
+    },
+    {
+      "backdrop": null,
+      "background": "#C8D0F8",
+      "foreground": "#8C0F1CC0",
+      "kind": "translucent-foreground",
+      "ratio": 4.3000139446179055
+    },
+    {
+      "backdrop": "#8030D9",
+      "background": "#491B2E0B",
+      "foreground": "#D01FAC",
+      "kind": "translucent-background",
+      "ratio": 1.390871417278452
+    },
+    {
+      "backdrop": "#723598",
+      "background": "#EBF97360",
+      "foreground": "#77E6FFBE",
+      "kind": "both-translucent",
+      "ratio": 1.979653631860576
+    },
+    {
+      "backdrop": null,
+      "background": "#EA2FC8",
+      "foreground": "#0C8975AB",
+      "kind": "translucent-foreground",
+      "ratio": 1.4677627365846977
+    },
+    {
+      "backdrop": "#C7E99E",
+      "background": "#DA31DBE8",
+      "foreground": "#D16723",
+      "kind": "translucent-background",
+      "ratio": 1.0019687353568691
+    },
+    {
+      "backdrop": "#DC2ABD",
+      "background": "#13C908BC",
+      "foreground": "#195B7138",
+      "kind": "both-translucent",
+      "ratio": 1.1919522176057962
+    },
+    {
+      "backdrop": null,
+      "background": "#706EAC",
+      "foreground": "#CD8C7391",
+      "kind": "translucent-foreground",
+      "ratio": 1.3316399800299925
+    },
+    {
+      "backdrop": "#52E73B",
+      "background": "#4FC38BC6",
+      "foreground": "#259383",
+      "kind": "translucent-background",
+      "ratio": 1.821134276876316
+    },
+    {
+      "backdrop": "#73AC1F",
+      "background": "#FEF4511B",
+      "foreground": "#901398B4",
+      "kind": "both-translucent",
+      "ratio": 2.6816455652547857
+    },
+    {
+      "backdrop": null,
+      "background": "#64D478",
+      "foreground": "#D9CA79D4",
+      "kind": "translucent-foreground",
+      "ratio": 1.0920282753555122
+    },
+    {
+      "backdrop": "#4DD253",
+      "background": "#B4EDADB3",
+      "foreground": "#35B55B",
+      "kind": "translucent-background",
+      "ratio": 1.757115062908014
+    },
+    {
+      "backdrop": "#7B0F90",
+      "background": "#8A6E2985",
+      "foreground": "#5452546A",
+      "kind": "both-translucent",
+      "ratio": 1.0417078271662281
+    },
+    {
+      "backdrop": null,
+      "background": "#15AF45",
+      "foreground": "#C0E7069B",
+      "kind": "translucent-foreground",
+      "ratio": 1.5192981706632047
+    },
+    {
+      "backdrop": "#043C07",
+      "background": "#659F9DDA",
+      "foreground": "#A98563",
+      "kind": "translucent-background",
+      "ratio": 1.0758299186083546
+    },
+    {
+      "backdrop": "#1CC6AB",
+      "background": "#310350F1",
+      "foreground": "#0499C43A",
+      "kind": "both-translucent",
+      "ratio": 1.2824841655542278
+    },
+    {
+      "backdrop": null,
+      "background": "#361D01",
+      "foreground": "#4A4EE585",
+      "kind": "translucent-foreground",
+      "ratio": 1.5226930973022892
+    },
+    {
+      "backdrop": "#0621D8",
+      "background": "#534C7E96",
+      "foreground": "#DE28EF",
+      "kind": "translucent-background",
+      "ratio": 2.4776345764002903
+    },
+    {
+      "backdrop": "#DD23B8",
+      "background": "#F37740FD",
+      "foreground": "#08E786FD",
+      "kind": "both-translucent",
+      "ratio": 1.6940206198367078
+    },
+    {
+      "backdrop": null,
+      "background": "#F2B374",
+      "foreground": "#F8BB9244",
+      "kind": "translucent-foreground",
+      "ratio": 1.023361606321606
+    },
+    {
+      "backdrop": "#568FBE",
+      "background": "#EEBF06C6",
+      "foreground": "#4B7BAA",
+      "kind": "translucent-background",
+      "ratio": 2.1557775300334945
+    },
+    {
+      "backdrop": "#1B47DB",
+      "background": "#B503C0CB",
+      "foreground": "#6BC12DDA",
+      "kind": "both-translucent",
+      "ratio": 2.3104781444464733
+    },
+    {
+      "backdrop": null,
+      "background": "#A53682",
+      "foreground": "#D35A0730",
+      "kind": "translucent-foreground",
+      "ratio": 1.062735752780967
+    },
+    {
+      "backdrop": "#AA48EC",
+      "background": "#6D476D31",
+      "foreground": "#484265",
+      "kind": "translucent-background",
+      "ratio": 1.9298120784056354
+    },
+    {
+      "backdrop": "#646250",
+      "background": "#15FC96A0",
+      "foreground": "#9F3A6AA0",
+      "kind": "both-translucent",
+      "ratio": 2.1916519251751594
+    },
+    {
+      "backdrop": null,
+      "background": "#6313F2",
+      "foreground": "#8F7E6B68",
+      "kind": "translucent-foreground",
+      "ratio": 1.0928767503967671
+    },
+    {
+      "backdrop": "#AC3F2D",
+      "background": "#FA91EA0E",
+      "foreground": "#0BE381",
+      "kind": "translucent-background",
+      "ratio": 3.3085381755200425
+    },
+    {
+      "backdrop": "#BF40DA",
+      "background": "#C143B631",
+      "foreground": "#EB1A89E5",
+      "kind": "both-translucent",
+      "ratio": 1.012403084055491
+    },
+    {
+      "backdrop": null,
+      "background": "#23D676",
+      "foreground": "#221D645F",
+      "kind": "translucent-foreground",
+      "ratio": 2.0447669855056767
+    },
+    {
+      "backdrop": "#025FE0",
+      "background": "#209B725E",
+      "foreground": "#C3065F",
+      "kind": "translucent-background",
+      "ratio": 1.2115866859632018
+    },
+    {
+      "backdrop": "#918E5E",
+      "background": "#D41AEB1C",
+      "foreground": "#F4053BB6",
+      "kind": "both-translucent",
+      "ratio": 1.304912477470324
+    },
+    {
+      "backdrop": null,
+      "background": "#AB540B",
+      "foreground": "#25B6397F",
+      "kind": "translucent-foreground",
+      "ratio": 1.2384054213897537
+    },
+    {
+      "backdrop": "#A51179",
+      "background": "#DDA0241F",
+      "foreground": "#FD3E65",
+      "kind": "translucent-background",
+      "ratio": 1.885184701890209
+    },
+    {
+      "backdrop": "#8A20C5",
+      "background": "#0338CD03",
+      "foreground": "#21EA43B1",
+      "kind": "both-translucent",
+      "ratio": 2.396148291380624
+    },
+    {
+      "backdrop": null,
+      "background": "#E2141A",
+      "foreground": "#E8F5D8F6",
+      "kind": "translucent-foreground",
+      "ratio": 4.016845645767705
+    },
+    {
+      "backdrop": "#34F762",
+      "background": "#E58410E7",
+      "foreground": "#58EFAF",
+      "kind": "translucent-background",
+      "ratio": 1.8577358173483038
+    },
+    {
+      "backdrop": "#42BABA",
+      "background": "#45141792",
+      "foreground": "#AC2C4400",
+      "kind": "both-translucent",
+      "ratio": 1.0
+    },
+    {
+      "backdrop": null,
+      "background": "#EFF294",
+      "foreground": "#A506DA89",
+      "kind": "translucent-foreground",
+      "ratio": 2.6957119406817083
+    },
+    {
+      "backdrop": "#A5583C",
+      "background": "#92CBF552",
+      "foreground": "#362838",
+      "kind": "translucent-background",
+      "ratio": 3.7385373644278737
+    },
+    {
+      "backdrop": "#EDC68E",
+      "background": "#4E51A982",
+      "foreground": "#13AA671A",
+      "kind": "both-translucent",
+      "ratio": 1.0170366115374643
+    },
+    {
+      "backdrop": null,
+      "background": "#10B727",
+      "foreground": "#8F9AC306",
+      "kind": "translucent-foreground",
+      "ratio": 1.0058390839010405
+    },
+    {
+      "backdrop": "#2EEA6D",
+      "background": "#3894FCB2",
+      "foreground": "#7DBF17",
+      "kind": "translucent-background",
+      "ratio": 1.1495310995128811
+    },
+    {
+      "backdrop": "#069590",
+      "background": "#0F744BB3",
+      "foreground": "#E89A617D",
+      "kind": "both-translucent",
+      "ratio": 1.3701494891415351
+    },
+    {
+      "backdrop": null,
+      "background": "#700AE7",
+      "foreground": "#2E42F9F9",
+      "kind": "translucent-foreground",
+      "ratio": 1.1208196318020056
+    },
+    {
+      "backdrop": "#41F86B",
+      "background": "#B28F2D49",
+      "foreground": "#953722",
+      "kind": "translucent-background",
+      "ratio": 4.1017511828104265
+    },
+    {
+      "backdrop": "#F13254",
+      "background": "#723DC2DF",
+      "foreground": "#DD202F79",
+      "kind": "both-translucent",
+      "ratio": 1.0581090519088134
+    },
+    {
+      "backdrop": null,
+      "background": "#DC089C",
+      "foreground": "#AADA94DF",
+      "kind": "translucent-foreground",
+      "ratio": 2.3684763753417184
+    },
+    {
+      "backdrop": "#DAF49D",
+      "background": "#AE725CF5",
+      "foreground": "#F219F1",
+      "kind": "translucent-background",
+      "ratio": 1.095284964743019
+    },
+    {
+      "backdrop": "#A8B8A1",
+      "background": "#67083AC4",
+      "foreground": "#D8E3368D",
+      "kind": "both-translucent",
+      "ratio": 3.021496713280519
+    },
+    {
+      "backdrop": null,
+      "background": "#569D43",
+      "foreground": "#8F1070F8",
+      "kind": "translucent-foreground",
+      "ratio": 2.5526402414965053
+    },
+    {
+      "backdrop": "#85297E",
+      "background": "#BC3534E8",
+      "foreground": "#0F8684",
+      "kind": "translucent-background",
+      "ratio": 1.335587225216945
+    },
+    {
+      "backdrop": "#D7DF1F",
+      "background": "#AD98E1C3",
+      "foreground": "#2C090228",
+      "kind": "both-translucent",
+      "ratio": 1.3433532954605916
+    },
+    {
+      "backdrop": null,
+      "background": "#E9EEF3",
+      "foreground": "#A4AD7C87",
+      "kind": "translucent-foreground",
+      "ratio": 1.4257665830788238
+    },
+    {
+      "backdrop": "#87CB04",
+      "background": "#714EC819",
+      "foreground": "#84CFA3",
+      "kind": "translucent-background",
+      "ratio": 1.2116787166744487
+    },
+    {
+      "backdrop": "#3B1ED0",
+      "background": "#5F55681E",
+      "foreground": "#0FCEAAB6",
+      "kind": "both-translucent",
+      "ratio": 2.8880020756620906
+    },
+    {
+      "backdrop": null,
+      "background": "#4A1981",
+      "foreground": "#8F4AA1F7",
+      "kind": "translucent-foreground",
+      "ratio": 2.0467985868284595
+    },
+    {
+      "backdrop": "#29A7B3",
+      "background": "#286DF4C7",
+      "foreground": "#1503E8",
+      "kind": "translucent-background",
+      "ratio": 2.2630063773840754
+    },
+    {
+      "backdrop": "#6B2E8F",
+      "background": "#E389C9DA",
+      "foreground": "#E7AAB06B",
+      "kind": "both-translucent",
+      "ratio": 1.1733571039137396
+    },
+    {
+      "backdrop": null,
+      "background": "#9F1974",
+      "foreground": "#2A9A0143",
+      "kind": "translucent-foreground",
+      "ratio": 1.0696080294825894
+    },
+    {
+      "backdrop": "#A7969D",
+      "background": "#D478BAB8",
+      "foreground": "#5CCC68",
+      "kind": "translucent-background",
+      "ratio": 1.431505581026824
+    },
+    {
+      "backdrop": "#05ECAE",
+      "background": "#E067B156",
+      "foreground": "#F49E7586",
+      "kind": "both-translucent",
+      "ratio": 1.040030489792509
+    },
+    {
+      "backdrop": null,
+      "background": "#58CE58",
+      "foreground": "#8FD27D0F",
+      "kind": "translucent-foreground",
+      "ratio": 1.0059976627038003
+    },
+    {
+      "backdrop": "#E954B3",
+      "background": "#05837C3F",
+      "foreground": "#1E8158",
+      "kind": "translucent-background",
+      "ratio": 1.1685366829125232
+    },
+    {
+      "backdrop": "#71A9F3",
+      "background": "#0C90080B",
+      "foreground": "#B519E00B",
+      "kind": "both-translucent",
+      "ratio": 1.0510154596530805
+    },
+    {
+      "backdrop": null,
+      "background": "#6AC555",
+      "foreground": "#29792A27",
+      "kind": "translucent-foreground",
+      "ratio": 1.134044684751869
+    },
+    {
+      "backdrop": "#E30BF6",
+      "background": "#DABCACDD",
+      "foreground": "#8FDDF8",
+      "kind": "translucent-background",
+      "ratio": 1.3822480280720733
+    },
+    {
+      "backdrop": "#67C861",
+      "background": "#65CD13BC",
+      "foreground": "#7DE45C57",
+      "kind": "both-translucent",
+      "ratio": 1.0917704049069983
+    },
+    {
+      "backdrop": null,
+      "background": "#745B7C",
+      "foreground": "#D52A3EB2",
+      "kind": "translucent-foreground",
+      "ratio": 1.056665882687687
+    },
+    {
+      "backdrop": "#28D061",
+      "background": "#5392DE5D",
+      "foreground": "#8403AC",
+      "kind": "translucent-background",
+      "ratio": 3.294634236271787
+    },
+    {
+      "backdrop": "#3526D4",
+      "background": "#19C94BD9",
+      "foreground": "#ED5B063C",
+      "kind": "both-translucent",
+      "ratio": 1.2041541556511113
+    },
+    {
+      "backdrop": null,
+      "background": "#FBDC0D",
+      "foreground": "#F13B8C6C",
+      "kind": "translucent-foreground",
+      "ratio": 1.6142530091432712
+    },
+    {
+      "backdrop": "#240B66",
+      "background": "#A9B845C9",
+      "foreground": "#CC4A08",
+      "kind": "translucent-background",
+      "ratio": 1.4130770275519895
+    },
+    {
+      "backdrop": "#B8C169",
+      "background": "#79DEBE85",
+      "foreground": "#40A8ACF7",
+      "kind": "both-translucent",
+      "ratio": 1.5674081888161127
+    },
+    {
+      "backdrop": null,
+      "background": "#6979FE",
+      "foreground": "#E42C1FD2",
+      "kind": "translucent-foreground",
+      "ratio": 1.3351822481986115
+    },
+    {
+      "backdrop": "#2F650B",
+      "background": "#5B23638B",
+      "foreground": "#2BE691",
+      "kind": "translucent-background",
+      "ratio": 6.146117123823609
+    },
+    {
+      "backdrop": "#589331",
+      "background": "#CD55BB77",
+      "foreground": "#4E07B0F7",
+      "kind": "both-translucent",
+      "ratio": 2.499857269991815
+    },
+    {
+      "backdrop": null,
+      "background": "#D35C39",
+      "foreground": "#AFC0C2BD",
+      "kind": "translucent-foreground",
+      "ratio": 1.6803930384992596
+    },
+    {
+      "backdrop": "#68DC8B",
+      "background": "#2D1B5029",
+      "foreground": "#F36A76",
+      "kind": "translucent-background",
+      "ratio": 1.2723952733185477
+    },
+    {
+      "backdrop": "#B1234C",
+      "background": "#3733954C",
+      "foreground": "#FF7D8243",
+      "kind": "both-translucent",
+      "ratio": 1.3935864160105411
+    },
+    {
+      "backdrop": null,
+      "background": "#011490",
+      "foreground": "#98B04DD9",
+      "kind": "translucent-foreground",
+      "ratio": 4.400808923320281
+    },
+    {
+      "backdrop": "#725E1A",
+      "background": "#E54045A1",
+      "foreground": "#8D3594",
+      "kind": "translucent-background",
+      "ratio": 1.3562189623899126
+    },
+    {
+      "backdrop": "#3445BE",
+      "background": "#57987D7D",
+      "foreground": "#A6DABD23",
+      "kind": "both-translucent",
+      "ratio": 1.2098816555509269
+    },
+    {
+      "backdrop": null,
+      "background": "#5F2D56",
+      "foreground": "#12F2AC5C",
+      "kind": "translucent-foreground",
+      "ratio": 2.0030985970598216
+    },
+    {
+      "backdrop": "#B86176",
+      "background": "#C4FA6CE1",
+      "foreground": "#2423B5",
+      "kind": "translucent-background",
+      "ratio": 7.602743155707637
+    },
+    {
+      "backdrop": "#0512E6",
+      "background": "#0FA08108",
+      "foreground": "#F20D3F38",
+      "kind": "both-translucent",
+      "ratio": 1.1000315009009876
+    },
+    {
+      "backdrop": null,
+      "background": "#922985",
+      "foreground": "#A418FCCF",
+      "kind": "translucent-foreground",
+      "ratio": 1.3217619404178116
+    },
+    {
+      "backdrop": "#C0E2C2",
+      "background": "#CF3AE799",
+      "foreground": "#804B2C",
+      "kind": "translucent-background",
+      "ratio": 2.506461860429714
+    },
+    {
+      "backdrop": "#2D0290",
+      "background": "#A45189EB",
+      "foreground": "#DF983592",
+      "kind": "both-translucent",
+      "ratio": 1.6180401347613627
+    },
+    {
+      "backdrop": null,
+      "background": "#5CF243",
+      "foreground": "#8DA0F707",
+      "kind": "translucent-foreground",
+      "ratio": 1.0171465688789432
+    },
+    {
+      "backdrop": "#0B8A50",
+      "background": "#D97373C0",
+      "foreground": "#81A192",
+      "kind": "translucent-background",
+      "ratio": 1.3410205614617632
+    },
+    {
+      "backdrop": "#F98D7A",
+      "background": "#F6AF9BEA",
+      "foreground": "#9FA07805",
+      "kind": "both-translucent",
+      "ratio": 1.007493680870703
+    },
+    {
+      "backdrop": null,
+      "background": "#83FAD7",
+      "foreground": "#2F5B51F7",
+      "kind": "translucent-foreground",
+      "ratio": 5.6564863036936535
+    },
+    {
+      "backdrop": "#DD850A",
+      "background": "#AF102FAF",
+      "foreground": "#6616BE",
+      "kind": "translucent-background",
+      "ratio": 1.5282904083288325
+    },
+    {
+      "backdrop": "#ABA66D",
+      "background": "#CDEBBB57",
+      "foreground": "#E79E69C8",
+      "kind": "both-translucent",
+      "ratio": 1.1057840137570796
+    },
+    {
+      "backdrop": null,
+      "background": "#4C0560",
+      "foreground": "#4A04E26C",
+      "kind": "translucent-foreground",
+      "ratio": 1.1799951810019367
+    },
+    {
+      "backdrop": "#B83E8E",
+      "background": "#8FDED245",
+      "foreground": "#AD9F60",
+      "kind": "translucent-background",
+      "ratio": 1.4865312646373428
+    },
+    {
+      "backdrop": "#75E780",
+      "background": "#4D7A3381",
+      "foreground": "#491A8395",
+      "kind": "both-translucent",
+      "ratio": 2.604883737011647
+    },
+    {
+      "backdrop": null,
+      "background": "#9C3C8F",
+      "foreground": "#50A06F5D",
+      "kind": "translucent-foreground",
+      "ratio": 1.1404765521758595
+    },
+    {
+      "backdrop": "#5063BB",
+      "background": "#C8715B41",
+      "foreground": "#BDA0FF",
+      "kind": "translucent-background",
+      "ratio": 2.3393940886084628
+    },
+    {
+      "backdrop": "#83EE5B",
+      "background": "#99D8B339",
+      "foreground": "#8FAF16F8",
+      "kind": "both-translucent",
+      "ratio": 1.6524794850356692
+    },
+    {
+      "backdrop": null,
+      "background": "#F13373",
+      "foreground": "#4EEC3DCB",
+      "kind": "translucent-foreground",
+      "ratio": 1.8082634949060192
+    },
+    {
+      "backdrop": "#2FBD3B",
+      "background": "#21419BBD",
+      "foreground": "#6EB7C8",
+      "kind": "translucent-background",
+      "ratio": 2.9772056577222665
+    },
+    {
+      "backdrop": "#887CC2",
+      "background": "#66992062",
+      "foreground": "#7891235B",
+      "kind": "both-translucent",
+      "ratio": 1.0046240734137064
+    }
+  ],
+  "generator": "scripts/verify_vectors.py",
+  "seed": 20261025
+}

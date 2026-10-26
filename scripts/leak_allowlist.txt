@@ -1,0 +1,8 @@
+# Known false positives for scripts/leak_scan.sh, one per line:
+#   <check> <path-glob>
+# <check> is long-number, credential or abs-path. The denylist check cannot be
+# allowlisted. Globs use shell case syntax and match repo-relative paths (for
+# history, the path a blob was first seen at). Every entry needs a comment
+# above it explaining why the match is harmless.
+#
+# No entries.
