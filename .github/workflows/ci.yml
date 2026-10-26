@@ -2,8 +2,8 @@
 # - Runner labels: https://docs.github.com/en/actions/reference/runners/github-hosted-runners
 #   and https://github.com/actions/runner-images (macos-26 is GA; xcode-27 is a
 #   preview image, so it is not used here).
-# - macos-26 software (Xcode 26.6 at /Applications/Xcode_26.6.app, iOS 26.5
-#   simulator runtime with an "iPhone 17" device, Python 3):
+# - macos-26 software (Xcode 26.6 at /Applications/Xcode_26.6.app, iOS
+#   simulator runtimes, Python 3; the simulator is picked at run time):
 #   https://github.com/actions/runner-images/blob/main/images/macos/macos-26-arm64-Readme.md
 # - Swift images: https://hub.docker.com/_/swift (6.0.3-noble and 6.4.1-noble;
 #   6.4.1 is the latest release per https://www.swift.org/install/linux/).
@@ -120,7 +120,7 @@ jobs:
         run: swift test
 
   ios-simulator:
-    name: iOS simulator (Xcode 26.6, iOS 26.5)
+    name: iOS simulator (Xcode 26.6, newest installed iOS)
     runs-on: macos-26
     timeout-minutes: 30
     env:
@@ -130,11 +130,36 @@ jobs:
         with:
           persist-credentials: false
 
+      - name: Pick an available iPhone simulator
+        # A fixed device name was not always present on this image (one run
+        # found "iPhone 17, iOS 26.5", the next did not), so choose an
+        # available iPhone on the newest installed iOS runtime and log it.
+        id: simulator
+        run: |
+          udid=$(xcrun simctl list devices available --json | python3 -c '
+          import json, sys
+          data = json.load(sys.stdin)["devices"]
+          runtimes = sorted((r for r in data if ".SimRuntime.iOS-" in r),
+                            key=lambda r: [int(p) for p in r.rsplit("iOS-", 1)[1].split("-")])
+          for runtime in reversed(runtimes):
+              phones = [d for d in data[runtime] if d["name"].startswith("iPhone")]
+              if phones:
+                  print(phones[0]["udid"])
+                  print(runtime, phones[0]["name"], file=sys.stderr)
+                  break
+          ')
+          if [ -z "$udid" ]; then
+            echo "No available iPhone simulator on this runner."
+            xcrun simctl list devices available
+            exit 1
+          fi
+          echo "udid=$udid" >> "$GITHUB_OUTPUT"
+
       - name: Test on the iOS simulator
         run: |
           xcodebuild test \
             -scheme ContrastAudit-Package \
-            -destination 'platform=iOS Simulator,name=iPhone 17,OS=26.5'
+            -destination "platform=iOS Simulator,id=${{ steps.simulator.outputs.udid }}"
 
   linux:
     name: Linux (swift:${{ matrix.image }})
