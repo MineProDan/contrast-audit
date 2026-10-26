@@ -127,7 +127,8 @@ struct BaselineTests {
         #expect(baseline.entries.map { "\($0.variant)/\($0.foreground)" } == ["v/ink"])
 
         let again = theme.audit(level: .aa, baseline: baseline)
-        #expect(again.results.map(\.status) == [.knownFailure(baseline: try #require(first.results[0].ratio))])
+        let recorded = try #require(first.results[0].ratio)
+        #expect(again.results.map(\.status) == [.knownFailure(baseline: recorded)])
         #expect(again.problems == [.duplicateVariant("v")])
         #expect(!again.passed)
     }

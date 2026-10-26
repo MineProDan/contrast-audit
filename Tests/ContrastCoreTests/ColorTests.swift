@@ -113,7 +113,8 @@ struct CompositingTests {
         let half = try SRGBColor(red: 1, green: 1, blue: 1, alpha: 0.5)
         let black = SRGBColor(red8: 0, green8: 0, blue8: 0)
         let mixed = half.composited(over: black)
-        #expect(mixed == (try SRGBColor(red: 0.5, green: 0.5, blue: 0.5)))
+        let gray = try SRGBColor(red: 0.5, green: 0.5, blue: 0.5)
+        #expect(mixed == gray)
         #expect(mixed.alpha == 1)
     }
 

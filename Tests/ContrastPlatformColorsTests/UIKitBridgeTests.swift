@@ -105,7 +105,8 @@ struct UIKitBridgeTests {
         let white = try SRGBColor(resolving: UIColor(white: 1, alpha: 1), with: lightTraits)
         #expect(white == SRGBColor(red8: 255, green8: 255, blue8: 255))
         let black = try SRGBColor(resolving: UIColor(white: 0, alpha: 0.5), with: lightTraits)
-        #expect(black == (try SRGBColor(red: 0, green: 0, blue: 0, alpha: 0.5)))
+        let halfBlack = try SRGBColor(red: 0, green: 0, blue: 0, alpha: 0.5)
+        #expect(black == halfBlack)
         // UIColor(white:) is gray with the sRGB transfer function, so 0.5 stays 0.5.
         let mid = try SRGBColor(resolving: UIColor(white: 0.5, alpha: 1), with: lightTraits)
         #expect(abs(mid.red - 0.5) < 1e-6)

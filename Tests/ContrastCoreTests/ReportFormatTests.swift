@@ -523,11 +523,22 @@ struct ReportFormatTests {
             "waived": ["waiverReason", "expiryNote"], "invalid": ["problem"],
         ])
 
-        // Unrounded ratios survive the round trip exactly.
+        // Unrounded ratios survive the round trip exactly through Swift's own
+        // parser. Foundation's JSONSerialization on Linux can read a number one
+        // bit off, so its values are compared with a tolerance.
         let report = try Self.harbor()
+        let written = textAndNumbers(report.json()).numbers
+        for value in report.results.compactMap({ $0.ratio?.value }) {
+            #expect(written.contains(value), "\(value)")
+        }
         let parsed = try #require(harbor["results"] as? [[String: Any]])
         for (result, object) in zip(report.results, parsed) {
-            #expect((object["ratio"] as? NSNumber)?.doubleValue == result.ratio?.value)
+            let read = (object["ratio"] as? NSNumber)?.doubleValue
+            if let read, let value = result.ratio?.value {
+                #expect(abs(read - value) <= 1e-12 * value, "\(read) vs \(value)")
+            } else {
+                #expect(read == nil && result.ratio == nil)
+            }
         }
 
         let housekeeping = try Self.parse(Self.housekeeping().json())
