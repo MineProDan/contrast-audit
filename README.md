@@ -1,7 +1,11 @@
 # ContrastAudit
 
-A Swift package that checks a whole color theme against WCAG 2.1 contrast
-requirements from inside `swift test`.
+**Check a whole color theme against WCAG 2.1 contrast from inside `swift test`.**
+
+[![CI](https://github.com/MineProDan/contrast-audit/actions/workflows/ci.yml/badge.svg)](https://github.com/MineProDan/contrast-audit/actions/workflows/ci.yml)
+![Swift 6.0+](https://img.shields.io/badge/Swift-6.0%2B-orange)
+![Platforms](https://img.shields.io/badge/platforms-macOS%20%7C%20iOS%20%7C%20Linux-lightgrey)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 Themes that look fine on one screen often fail contrast in another mode, and a
 per-pair ratio function only helps if someone remembers to call it for every
@@ -10,10 +14,27 @@ pairs your UI uses once, audit them across every variant (light, dark, or any
 mode you define) with one assertion, and get a test failure that names each
 failing pair with its measured and required ratio.
 
-This is the Swift package. An unrelated TypeScript package with the same name
-exists on npm ([registry entry](https://registry.npmjs.org/contrast-audit)).
+- **One call per theme.** Every pair is checked in every variant.
+- **Failures you can act on.** Each line names the pair, the variant, the
+  measured ratio and the required one.
+- **Adoptable on day one.** Waivers for reviewed exceptions, and a baseline so
+  known failures cannot get worse.
+- **No UI frameworks in the core.** Tested in CI on macOS, the iOS simulator
+  and Linux.
 
-## Hello audit
+[Quick start](#quick-start) |
+[Installation](#installation) |
+[Describing a theme](#describing-a-theme) |
+[Roles](#roles-and-large-text) |
+[Platform colors](#platform-color-bridges) |
+[What this is not](#what-this-is-not) |
+[Related projects](#related-projects)
+
+> [!NOTE]
+> This is the Swift package. An unrelated TypeScript package with the same name
+> exists on npm ([registry entry](https://registry.npmjs.org/contrast-audit)).
+
+## Quick start
 
 ```swift
 import XCTest
@@ -31,7 +52,8 @@ final class HelloContrastTests: XCTestCase {
 }
 ```
 
-This test fails, attributed to the `assertPasses` line, with:
+With Swift Testing, call `ContrastAudit.expectPasses(theme, level: .aa)`
+instead. Either way, this test fails, attributed to the assertion line, with:
 
 ```
 Contrast audit failed for theme 'Hello' at AA: 1 of 2 checks failed (2 pairs x 1 variant).
@@ -272,10 +294,12 @@ images, and both jobs pass. On Linux the XCTest failure-path tests are skipped
 
 ## What this is not
 
-- **A passing audit does not mean your app is accessible.** It means that the
-  pairs you declared meet the ratios for the roles you declared, and nothing
-  more. Pairs you did not declare, text over images, focus indicators, motion,
-  VoiceOver and everything else are out of scope.
+> [!IMPORTANT]
+> **A passing audit does not mean your app is accessible.** It means that the
+> pairs you declared meet the ratios for the roles you declared, and nothing
+> more. Pairs you did not declare, text over images, focus indicators, motion,
+> VoiceOver and everything else are out of scope.
+
 - It does not audit rendered UI, screenshots, gradients or text over photos.
 - It does not generate palettes, suggest fixes, simulate color-vision
   deficiencies or convert between color spaces.
@@ -289,6 +313,9 @@ The search covered Swift Package Index, GitHub and the web but was not
 exhaustive. "Whole-theme test assertion" means one call from a test that checks
 many named pairs and fails with one aggregated message.
 
+<details>
+<summary>Comparison table (9 projects)</summary>
+
 | Project | What it offers (paraphrased) | Whole-theme test assertion | Last commit | License |
 |---|---|---|---|---|
 | [InclusiveColor](https://github.com/importRyan/InclusiveColor) (importRyan) | XCTest `AssertInclusive` over arrays of text colors, backgrounds and fonts, with one aggregated failure message at the call site; color-vision simulation ([README](https://raw.githubusercontent.com/importRyan/InclusiveColor/main/README.md), [assertion source](https://raw.githubusercontent.com/importRyan/InclusiveColor/main/Sources/InclusiveColor/Assertions/AssertInclusive+Text.swift)) | Partial: tests a cross product of arrays; no named pairs or variants, no required ratio in the message, no waivers or baseline | [2021-04-30](https://api.github.com/repos/importRyan/InclusiveColor/commits?per_page=1) | BSD 3-Clause plus the MIT license of the project it forks ([LICENSE](https://raw.githubusercontent.com/importRyan/InclusiveColor/main/LICENSE.md)) |
@@ -300,6 +327,8 @@ many named pairs and fails with one aggregated message.
 | [Color](https://github.com/soffes/Color) (soffes) | Pure-Swift color utilities with WCAG 2.0 contrast ratios | No | [2022-12-07](https://api.github.com/repos/soffes/Color/commits?per_page=1) | MIT ([API](https://api.github.com/repos/soffes/Color)) |
 | Apple [`performAccessibilityAudit`](https://developer.apple.com/documentation/xcuiautomation/xcuiapplication/performaccessibilityaudit(for:_:)) | UI-test audit of the rendered screen, with a contrast category ([audit types](https://developer.apple.com/documentation/xcuiautomation/xcuiaccessibilityaudittype/contrast)) | Different approach: rendered screens in a UI test, not theme definitions | n/a | Apple SDK (XCUIAutomation framework) |
 | [accessibility_test](https://pub.dev/packages/accessibility_test) (Dart, Flutter) | `themeTest()` checks the color pairs of a Flutter theme and names the colors and ratio on failure | Yes, for Flutter; marked discontinued | n/a | Apache-2.0 ([pub.dev](https://pub.dev/packages/accessibility_test)) |
+
+</details>
 
 InclusiveColor is the closest prior art in Swift, and this package is not the
 first XCTest contrast assertion for Swift. What ContrastAudit adds is the
