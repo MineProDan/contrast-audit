@@ -4,7 +4,7 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and the project uses
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.1.0] - Unreleased
+## [0.1.0] - 2026-10-25
 
 First release.
 
@@ -41,5 +41,8 @@ First release.
   implementation that generates the reference-vector fixture used by the tests.
 - `Examples/ThemeAuditDemo`, a separate package with one passing and one
   intentionally failing invented theme.
-- `scripts/leak_scan.sh` and a GitHub Actions workflow for macOS, the iOS
+- `scripts/leak_scan.sh` and a GitHub Actions workflow for macOS (Xcode 26.6 and
+  Xcode 16.0 / Swift 6.0), the iOS
   simulator, Linux and the leak scan.
+
+[0.1.0]: https://github.com/MineProDan/contrast-audit/releases/tag/v0.1.0
