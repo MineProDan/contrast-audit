@@ -263,12 +263,12 @@ Details are in [DESIGN.md](DESIGN.md), section 9.
 
 ## Linux
 
-`ContrastCore` and `ContrastAuditTesting` import no UI framework, so they are
-meant to build and run under `swift test` on Linux. The CI workflow builds and
+`ContrastCore` and `ContrastAuditTesting` import no UI framework, so they build and
+run under `swift test` on Linux. The CI workflow builds and
 tests the package in the official `swift:6.0.3-noble` and `swift:6.4.1-noble`
-images. Those jobs had not yet run when this README was written, so Linux
-support is configured, not yet demonstrated. On Linux, `ContrastPlatformColors`
-compiles to a module with no public API.
+images, and both jobs pass. On Linux the XCTest failure-path tests are skipped
+(`XCTExpectFailure` is Apple-only); the Swift Testing ones run.
+`ContrastPlatformColors` compiles to a module with no public API there.
 
 ## What this is not
 
@@ -310,11 +310,11 @@ imports.
 
 ## Requirements
 
-- Swift 6.0 or later (`swift-tools-version: 6.0`). Development and the
-  recorded test runs used Xcode 27.1 (Swift 6.4) on macOS 26.6; CI is
-  configured for Xcode 26.6 and the Swift 6.0.3 and 6.4.1 Linux images.
-- Platforms: macOS 10.15, iOS 13, tvOS 13, watchOS 6 and visionOS 1. Linux is
-  configured in CI but not yet demonstrated (see [Linux](#linux)). The AppKit
+- Swift 6.0 or later (`swift-tools-version: 6.0`). CI builds and tests with
+  Xcode 16.0 (Swift 6.0) and Xcode 26.6 on macOS, the iOS simulator, and the
+  Swift 6.0.3 and 6.4.1 Linux images; development used Xcode 27.1 (Swift 6.4).
+- Platforms: macOS 10.15, iOS 13, tvOS 13, watchOS 6, visionOS 1, and Linux.
+  tvOS, watchOS and visionOS are built but not tested. The AppKit
   bridge needs macOS 11; the SwiftUI bridge needs macOS 14, iOS 17, tvOS 17,
   watchOS 10 or visionOS 1.
 - No third-party dependencies.
